@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-7b0660ff56794218",
+  "title": "光阴的故事",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张艾嘉",
+  "composer_credit": "罗大佑",
+  "year": 1981,
+  "year_label": "1981",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《童年》",
+  "context": "校园民歌/青春",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "电台",
+    "磁带"
+  ],
+  "carriers": [
+    "磁带",
+    "广播",
+    "校园吉他"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-7a58cbb148b1"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 12
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "snd-8c09582d5dbf4dbb",
+  "title": "放弃",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郭品超",
+  "composer_credit": "待核",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《斗鱼 电视原声带》",
+  "context": "《斗鱼》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "偶像剧",
+    "演员演唱",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "VCD"
+  ],
+  "notes": "于皓扮演者郭品超演唱，典型演员跨界OST",
+  "sources": [
+    {
+      "url": "https://www.hitoradio.com/newweb/714album",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-6d058ad9fe37",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec",
+    "col-b51cd96b856a"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 481
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 159
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 14
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 29
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 24
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶深挖_斗鱼海派",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

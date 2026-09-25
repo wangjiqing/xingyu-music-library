@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-ede8b8bc93e54f9e",
+  "title": "天天寄出的信",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "ASOS（徐熙媛、徐熙娣）",
+  "composer_credit": "郭子",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《天天寄出的信》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "少女组合",
+    "青春",
+    "跨界"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "电视"
+  ],
+  "notes": "ASOS同名专辑歌曲；大S/小S早期歌手生涯",
+  "sources": [
+    {
+      "url": "https://www.hitoradio.com/newweb/4448album",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-6d058ad9fe37",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec",
+    "col-b51cd96b856a"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 236
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 9
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 3
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 3
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶深挖_斗鱼海派",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

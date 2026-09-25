@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-4f2d181c94734a9d",
+  "title": "一生何求",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "陈百强",
+  "composer_credit": "王文清",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《一生何求》",
+  "context": "TVB《义不容情》主题曲",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.hechanghong.com/article/jingdiangequ/229.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 106
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 50
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 50
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 34
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

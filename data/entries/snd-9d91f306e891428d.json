@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-9d91f306e891428d",
+  "title": "我的眼泪为谁飞",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳",
+  "composer_credit": "汤潮",
+  "year": 2011,
+  "year_label": "2011",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《怪侠欧阳德》电视剧原声",
+  "context": "电视剧《怪侠欧阳德》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "影视",
+    "武侠喜剧",
+    "情歌"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "汤潮词曲；公开报道亦记录该曲随剧集热播在网络传播",
+  "sources": [
+    {
+      "url": "https://music.yule.sohu.com/20120223/n335666454.shtml",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-f69e0fc33144"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 941
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视跨界补遗_v33",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

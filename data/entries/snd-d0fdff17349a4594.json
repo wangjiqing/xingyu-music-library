@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-d0fdff17349a4594",
+  "title": "十年",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "陈奕迅",
+  "composer_credit": "陈小霞",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《黑·白·灰》",
+  "context": "国语KTV经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "KTV",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/黑·白·灰",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 430
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 74
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 226
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

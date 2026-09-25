@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-9287fa63f5814b17",
+  "title": "一念一生",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李健",
+  "composer_credit": "李健",
+  "year": 2019,
+  "year_label": "2019",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《庆余年》电视剧原声",
+  "context": "《庆余年》片头曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1hK41137WA/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 793
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 338
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 257
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 39
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

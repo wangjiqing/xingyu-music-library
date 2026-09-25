@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-7e329e0f93b546bc",
+  "title": "白雪",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "Kokia",
+  "composer_credit": "待核",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《海豚湾恋人》电视原声带",
+  "context": "《海豚湾恋人》OST",
+  "language": "日语",
+  "editorial_grade": "A",
+  "tags": [
+    "台偶",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "因台偶传播进入一代人记忆",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/許紹洋",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-ce6d63d1fcde"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 450
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST深挖_v17",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

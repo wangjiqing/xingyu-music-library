@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-6f8ebc78234646de",
+  "title": "没那么简单",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "黄小琥",
+  "composer_credit": "萧煌奇",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《简单/不简单》",
+  "context": "KTV长青曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "KTV",
+    "电台",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/黃小琥",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 744
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 291
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 358
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

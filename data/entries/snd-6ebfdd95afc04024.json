@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-6ebfdd95afc04024",
+  "title": "伤心地铁",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "光良",
+  "composer_credit": "光良",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《光芒》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "MP3",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "光良滚石时期代表曲之一，后收入《十光年》",
+  "sources": [
+    {
+      "url": "https://ent.sina.cn/music/ygangtai/2006-09-25/detail-icesifvy0807806.d.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-88d3fa5b46fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 867
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "光良MP3时代深挖_v29",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

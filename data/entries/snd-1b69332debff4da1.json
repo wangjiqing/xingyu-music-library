@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-1b69332debff4da1",
+  "title": "男儿当自强",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙",
+  "composer_credit": "古曲《将军令》",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《黄飞鸿之二：男儿当自强》电影原声",
+  "context": "电影《黄飞鸿之二：男儿当自强》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "武侠",
+    "励志"
+  ],
+  "carriers": [
+    "电影",
+    "录像带",
+    "VCD",
+    "KTV"
+  ],
+  "notes": "成龙版本；与林子祥版共同形成时代记忆",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/男兒當自強_(歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 175
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 83
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 88
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

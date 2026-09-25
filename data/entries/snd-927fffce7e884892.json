@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "snd-927fffce7e884892",
+  "title": "没有你的日子我真的好孤单",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "韩晶",
+  "composer_credit": "待核",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《不要用我的爱来伤害我》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络歌曲",
+    "苦情歌",
+    "KTV"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "KTV"
+  ],
+  "notes": "不同平台存在年份标注差异；按2006广泛发行期归档，备注保留待核",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/track/79uu3tnpsuSvlro2u0ATks",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 589
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 4
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

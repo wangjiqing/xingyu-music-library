@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-cbbc4771b3a9423c",
+  "title": "大笑江湖",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳",
+  "composer_credit": "高进",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《大笑江湖》电影歌曲",
+  "context": "电影《大笑江湖》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影",
+    "网络",
+    "KTV"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "高进创作，小沈阳代表性影视歌曲",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/小沈阳",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 934
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

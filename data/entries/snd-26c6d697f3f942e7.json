@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-26c6d697f3f942e7",
+  "title": "感受",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙",
+  "composer_credit": "刚泽斌",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《第一次》",
+  "context": "电影《双龙会》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "KTV",
+    "演员演唱"
+  ],
+  "carriers": [
+    "电影",
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "成龙早期国语代表作",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/感受/8397201",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 168
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 79
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 82
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

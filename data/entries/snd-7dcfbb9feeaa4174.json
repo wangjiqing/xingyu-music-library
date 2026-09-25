@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-7dcfbb9feeaa4174",
+  "title": "生活就是这么怪",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "赵本山",
+  "composer_credit": "杨柏森",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《马大帅》电视剧原声",
+  "context": "电视剧《马大帅》片头主题歌",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "东北影视",
+    "喜剧",
+    "片头"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "周乃方、杨柏森作词，杨柏森作曲",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/马大帅",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-4cc0e79fe23f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 945
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "赵本山系影视OST_v34",
+      "row": 4
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

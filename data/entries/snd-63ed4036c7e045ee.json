@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-63ed4036c7e045ee",
+  "title": "都是你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "光良",
+  "composer_credit": "光良",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《约定》",
+  "context": "电影《情义我心知》主题曲版本",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "MP3",
+    "KTV",
+    "影视"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "光良词曲；《约定》收录普通版及电影主题曲特别版",
+  "sources": [
+    {
+      "url": "https://ent.sina.com.cn/y/d/2006-03-07/10361008302.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-88d3fa5b46fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 873
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "光良MP3时代深挖_v29",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-a922ebafd41a4346",
+  "title": "一辈子的孤单",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘若英",
+  "composer_credit": "深白色",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《Love and the City》",
+  "context": "电视剧《粉红女郎》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "都市剧",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/一辈子的孤单",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 423
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 69
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 144
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 223
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

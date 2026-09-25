@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-096315d8ee4349fe",
+  "title": "遇见",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "孙燕姿",
+  "composer_credit": "林一峰",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《The Moment》",
+  "context": "电影《向左走·向右走》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影",
+    "电台",
+    "KTV",
+    "MP3"
+  ],
+  "carriers": [
+    "电影",
+    "CD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/The_Moment_(孫燕姿專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 455
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 91
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 152
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 238
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

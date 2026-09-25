@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-d0c71b0760744cf0",
+  "title": "ターゲット～赤い衝撃～",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "和田光司",
+  "composer_credit": "太田美知彦",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《デジモンアドベンチャー02》主题歌",
+  "context": "《数码宝贝大冒险02》片头曲",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "动画",
+    "主题曲",
+    "童年"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "动画",
+    "网络"
+  ],
+  "notes": "正式曲名校正",
+  "sources": [
+    {
+      "url": "https://www.feelmee.jp/index.php/item/product/848",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 350
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 40
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

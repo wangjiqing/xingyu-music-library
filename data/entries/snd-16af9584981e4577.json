@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "snd-16af9584981e4577",
+  "title": "我知道",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "BY2",
+  "composer_credit": "待核",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《Twins》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "MP3",
+    "QQ音乐",
+    "青春"
+  ],
+  "carriers": [
+    "MP3",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "90后QQ音乐时期高辨识度",
+  "sources": [
+    {
+      "url": "https://ent.people.com.cn/n1/2019/0428/c1012-31054144.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 713
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 269
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 345
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 67
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 99
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

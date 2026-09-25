@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-fc9dc6e639d74c8f",
+  "title": "爱之无奈",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢",
+  "composer_credit": "刘欢",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《东边日出西边雨》电视剧原声",
+  "context": "电视剧《东边日出西边雨》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "都市情感剧",
+    "片尾",
+    "原创"
+  ],
+  "carriers": [
+    "电视",
+    "CD"
+  ],
+  "notes": "刘欢词曲、编曲、制作并演唱；1995用于电视剧，1997正式收录专辑",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/爱之无奈/1960921",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-73d86d0f739d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 997
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "999里程碑终局补遗_v37",
+      "row": 26
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

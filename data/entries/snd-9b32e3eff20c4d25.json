@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-9b32e3eff20c4d25",
+  "title": "爱情好无奈",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "六哲",
+  "composer_credit": "六哲",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《被伤过的心还可以爱谁》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络情歌",
+    "MP3",
+    "彩铃"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "六哲、郑健浩作词，六哲作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa19415/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d084e73105c6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 1007
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "网络情歌深挖_v39",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

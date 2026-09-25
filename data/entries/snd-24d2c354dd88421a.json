@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-24d2c354dd88421a",
+  "title": "世上只有妈妈好",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "萧芳芳",
+  "composer_credit": "待核",
+  "year": 1983,
+  "year_label": "1983",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《苦儿流浪记》相关版本",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "亲情",
+    "母亲",
+    "儿童记忆"
+  ],
+  "carriers": [
+    "电影",
+    "电视",
+    "磁带",
+    "学校"
+  ],
+  "notes": "经典儿童亲情歌曲；版本源流复杂，具体词曲继续待核",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/世上只有媽媽好",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-f1a85c25ef77"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 903
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "亲情家庭感恩记忆_v31",
+      "row": 4
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

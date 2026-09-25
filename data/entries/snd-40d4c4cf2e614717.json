@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-40d4c4cf2e614717",
+  "title": "城府",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许嵩",
+  "composer_credit": "许嵩",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《自定义》",
+  "context": "许嵩早期代表",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络",
+    "校园",
+    "MP3"
+  ],
+  "carriers": [
+    "QQ音乐",
+    "MP3",
+    "QQ空间"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1cYkbYAEiG/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 705
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 89
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 264
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 96
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

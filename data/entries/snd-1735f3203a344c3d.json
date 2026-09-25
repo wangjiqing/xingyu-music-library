@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-1735f3203a344c3d",
+  "title": "请你陪我走",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源、林可昕",
+  "composer_credit": "何波斯",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包容》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "MP3",
+    "对唱情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "网络"
+  ],
+  "notes": "赖殷盛、何波斯作词，何波斯作曲",
+  "sources": [
+    {
+      "url": "https://music.yule.sohu.com/20100729/n273854809.shtml",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 21
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

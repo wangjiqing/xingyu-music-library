@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-02a4f26d18644e0d",
+  "title": "亚洲雄风",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "韦唯、刘欢",
+  "composer_credit": "徐沛东",
+  "year": 1990,
+  "year_label": "1990",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "亚运会歌曲",
+  "context": "北京亚运会相关",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "体育",
+    "爱国",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "广播"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 123
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 55
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

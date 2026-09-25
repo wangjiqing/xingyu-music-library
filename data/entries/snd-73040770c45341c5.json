@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-73040770c45341c5",
+  "title": "我叫小沈阳",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳",
+  "composer_credit": "高进",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我叫小沈阳》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "小沈阳",
+    "网络",
+    "喜剧明星演唱"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "高进、小沈阳作词，高进作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa9615/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 930
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 17
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "snd-b5bc050407664d35",
+  "title": "军港之夜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "苏小明",
+  "composer_credit": "刘诗召",
+  "year": 1980,
+  "year_label": "1980",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "经典军旅歌曲",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "军旅",
+    "抒情",
+    "晚会"
+  ],
+  "carriers": [
+    "广播",
+    "磁带",
+    "电视晚会"
+  ],
+  "notes": "马金星作词；苏小明代表作",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/军港之夜",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 836
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 12
+    }
+  ],
+  "related_entry_ids": [
+    "snd-f5171181fcd4495c"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

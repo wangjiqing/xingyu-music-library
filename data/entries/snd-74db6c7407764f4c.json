@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-74db6c7407764f4c",
+  "title": "不让我的眼泪陪我过夜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "齐秦",
+  "composer_credit": "张真",
+  "year": 1996,
+  "year_label": "1996",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《丝路》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "广播",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-197eff77a6af"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 248
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 140
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 15
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

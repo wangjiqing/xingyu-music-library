@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "snd-435d3533f5a14a61",
+  "title": "我们很好",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林俊杰",
+  "composer_credit": "林俊杰",
+  "year": 2019,
+  "year_label": "2019",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《少年的你》电影原声",
+  "context": "电影《少年的你》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电影原声",
+    "青春"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/少年的你",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 795
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 102
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 340
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 259
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 41
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 18
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 94
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

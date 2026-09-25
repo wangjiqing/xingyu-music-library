@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-c4682278c22d4100",
+  "title": "小糊涂神之歌",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "北京宣武师范附属一小合唱团",
+  "composer_credit": "郭小笛",
+  "year": 1997,
+  "year_label": "1997",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《小糊涂神》动画原声",
+  "context": "《小糊涂神》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "陈晓莱作词",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/小糊涂神_(动画片)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 275
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 18
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

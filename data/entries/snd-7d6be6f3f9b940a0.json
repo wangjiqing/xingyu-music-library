@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "snd-7d6be6f3f9b940a0",
+  "title": "一场游戏一场梦",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "王杰",
+  "composer_credit": "王文清",
+  "year": 1987,
+  "year_label": "1987",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《一场游戏一场梦》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "磁带",
+    "CD",
+    "KTV",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "磁带",
+    "广播",
+    "CD",
+    "KTV"
+  ],
+  "notes": "王杰代表作；80年代末至90年代持续传播",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/collection_3_889747172_169_0.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 76
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 31
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 2
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 20
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

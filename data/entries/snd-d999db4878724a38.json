@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "snd-d999db4878724a38",
+  "title": "看我72变",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "蔡依林",
+  "composer_credit": "陈浩然",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《看我72变》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "MP3",
+    "KTV",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 451
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 88
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 235
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 24
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 12
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

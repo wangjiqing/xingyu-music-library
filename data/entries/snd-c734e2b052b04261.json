@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "snd-c734e2b052b04261",
+  "title": "身边",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "无印良品",
+  "composer_credit": "品冠",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《想见你》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "无印良品",
+    "校园",
+    "情歌",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "KTV",
+    "MP3"
+  ],
+  "notes": "于光中、李宗盛作词，品冠作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sl194305/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 891
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

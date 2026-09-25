@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-668534471d374b23",
+  "title": "让世界充满爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "群星",
+  "composer_credit": "郭峰",
+  "year": 1986,
+  "year_label": "1986",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "公益歌曲",
+  "context": "百名歌星演唱会",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "公益",
+    "晚会",
+    "校园"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/让世界充满爱",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-7a58cbb148b1",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 74
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 40
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 11
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 39
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

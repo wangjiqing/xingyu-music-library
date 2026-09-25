@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-14ea16df0cb14ab5",
+  "title": "老地方",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "衡越",
+  "composer_credit": "杨震",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《乡村爱情》电视剧原声",
+  "context": "电视剧《乡村爱情1》片头曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "东北影视",
+    "农村剧",
+    "片头"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "崔凯作词、杨震作曲",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/乡村爱情/13211069",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-4cc0e79fe23f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 947
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "赵本山系影视OST_v34",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

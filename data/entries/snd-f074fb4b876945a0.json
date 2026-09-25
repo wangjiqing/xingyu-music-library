@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-f074fb4b876945a0",
+  "title": "不再犹豫",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "Beyond",
+  "composer_credit": "黄家驹",
+  "year": 1991,
+  "year_label": "1991",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《犹豫》",
+  "context": "",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "粤语摇滚",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/playlist/90-%E5%B9%B4%E4%BB%A3%E7%B2%A4%E8%AF%AD%E6%B5%81%E8%A1%8C%E6%8A%92%E6%83%85%E7%BB%8F%E5%85%B8/pl.81d8dea8347242759d6777c3d712b542",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 144
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 68
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 7
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 46
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

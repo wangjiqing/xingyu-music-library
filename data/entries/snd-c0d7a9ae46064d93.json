@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-c0d7a9ae46064d93",
+  "title": "今天是你的生日",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "董文华",
+  "composer_credit": "谷建芬",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《今天是你的生日》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "爱国",
+    "时代",
+    "晚会"
+  ],
+  "carriers": [
+    "电视晚会",
+    "广播",
+    "磁带"
+  ],
+  "notes": "韩静霆作词；国庆主题歌曲代表",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/今天是你的生日",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 845
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

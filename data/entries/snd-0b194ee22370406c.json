@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-0b194ee22370406c",
+  "title": "爱你一万年",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "Giorgio Moroder、刘德华、陈德建",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《刘德华99演唱会》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国语",
+    "KTV",
+    "演唱会"
+  ],
+  "carriers": [
+    "CD",
+    "KTV",
+    "演唱会"
+  ],
+  "notes": "刘德华作词并参与作曲；1999发行",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/爱你一万年_(刘德华歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 927
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

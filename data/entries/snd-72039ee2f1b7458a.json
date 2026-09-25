@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-72039ee2f1b7458a",
+  "title": "伤心地铁",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "无印良品",
+  "composer_credit": "光良",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《想见你》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "无印良品",
+    "校园",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "KTV",
+    "MP3"
+  ],
+  "notes": "李宗盛作词、光良作曲；与光良个人版本并存",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa32267/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 888
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

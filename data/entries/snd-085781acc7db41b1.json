@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-085781acc7db41b1",
+  "title": "月光酒馆 / MoonlightTavern",
+  "aliases": [
+    "月光酒馆",
+    "MoonlightTavern"
+  ],
+  "kind": "bgm",
+  "artist_credit": "Neople",
+  "composer_credit": "Neople",
+  "year": null,
+  "year_label": "2008起",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "",
+  "context": "《地下城与勇士》",
+  "language": "韩国/器乐",
+  "editorial_grade": "A",
+  "tags": [
+    "游戏BGM",
+    "月光酒馆"
+  ],
+  "carriers": [
+    "PC网游",
+    "网吧",
+    "客户端"
+  ],
+  "notes": "城镇/任务场景",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/album/5DJoMkIlDEFgtCsgG2QtGA",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "year_uncertain"
+  ],
+  "collection_ids": [
+    "col-e1108b0dd14d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "声音记忆_BGM",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

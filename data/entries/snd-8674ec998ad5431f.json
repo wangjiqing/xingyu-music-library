@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "snd-8674ec998ad5431f",
+  "title": "历史的天空",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "毛阿敏",
+  "composer_credit": "谷建芬",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《三国演义》电视剧原声",
+  "context": "央视《三国演义》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "名著",
+    "影视原声",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "VCD",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.douban.com/subject/6797072/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 206
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 95
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 114
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

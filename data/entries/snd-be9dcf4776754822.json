@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "snd-be9dcf4776754822",
+  "title": "鲁冰花",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "曾淑勤",
+  "composer_credit": "陈扬",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《装在袋子里的回忆》",
+  "context": "电影《鲁冰花》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "亲情",
+    "母亲",
+    "电影",
+    "KTV"
+  ],
+  "carriers": [
+    "电影",
+    "磁带",
+    "电视",
+    "KTV"
+  ],
+  "notes": "姚谦作词、陈扬作曲；1989电影同名主题曲",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/鲁冰花/10249212",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-f1a85c25ef77"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 904
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "亲情家庭感恩记忆_v31",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

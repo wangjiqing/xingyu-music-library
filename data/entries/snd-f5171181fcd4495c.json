@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-f5171181fcd4495c",
+  "title": "军港之夜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "苏小明",
+  "composer_credit": "刘诗召",
+  "year": 1980,
+  "year_label": "1980",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "单曲/歌唱家代表作",
+  "context": "军旅题材",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "爱国",
+    "军旅",
+    "电台"
+  ],
+  "carriers": [
+    "广播",
+    "磁带"
+  ],
+  "notes": "内地早期通俗歌曲代表",
+  "sources": [
+    {
+      "url": "https://ent.sina.cn/music/2008-12-08/detail-icczmvun3410738.d.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-b5fdfb0d5861"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [
+    "snd-b5bc050407664d35"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

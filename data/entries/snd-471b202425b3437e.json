@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-471b202425b3437e",
+  "title": "千古",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "阿兰",
+  "composer_credit": "许嵩",
+  "year": 2015,
+  "year_label": "2015",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《花千骨》电视剧原声",
+  "context": "《花千骨》片头曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "仙侠",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/花千骨/12813082",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 770
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 315
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 234
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 16
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 83
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

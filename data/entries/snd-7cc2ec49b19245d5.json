@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-7cc2ec49b19245d5",
+  "title": "烛光里的妈妈",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "毛阿敏",
+  "composer_credit": "谷建芬",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《烛光里的妈妈》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "亲情",
+    "母亲",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "晚会",
+    "磁带",
+    "校园"
+  ],
+  "notes": "李春利作词、谷建芬作曲；广泛用于母亲主题晚会与校园场景",
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/烛光里的妈妈/44855",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-f1a85c25ef77"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 906
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "亲情家庭感恩记忆_v31",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-e75483b8ac354eef",
+  "title": "感动天感动地",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "宇桐非",
+  "composer_credit": "宇桐非",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《与你同飞》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络歌曲",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "网络"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.shazam.com/zh/track/50960685/moved-the-sky-and-the-earth",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 678
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

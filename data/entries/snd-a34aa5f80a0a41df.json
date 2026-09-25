@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-a34aa5f80a0a41df",
+  "title": "城里的月光",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许美静",
+  "composer_credit": "陈佳明",
+  "year": 1996,
+  "year_label": "1996",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《遗憾》",
+  "context": "都市夜色情歌",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "CD",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/遺憾_(許美靜專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 251
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 142
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

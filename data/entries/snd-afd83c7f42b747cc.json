@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-afd83c7f42b747cc",
+  "title": "曾经爱过你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "刘晓枫",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《擦肩而过》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "彩铃",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "QQ空间"
+  ],
+  "notes": "刘晓枫词曲",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/擦肩而过/66939893",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 9
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

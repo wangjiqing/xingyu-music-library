@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-f30d0e7429414ac7",
+  "title": "爱到万年",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "蒲巴甲、刘庭羽",
+  "composer_credit": "林海、肖山",
+  "year": 2011,
+  "year_label": "2011",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《女娲传说之灵珠》电视剧原声",
+  "context": "《女娲传说之灵珠》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视剧",
+    "古装"
+  ],
+  "carriers": [
+    "电视",
+    "影视原声"
+  ],
+  "notes": "2010年代精选延伸",
+  "sources": [
+    {
+      "url": "https://baike.sogou.com/m/fullLemma?lid=18495349",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 757
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 8
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

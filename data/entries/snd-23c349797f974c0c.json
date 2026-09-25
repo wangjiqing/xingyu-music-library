@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "snd-23c349797f974c0c",
+  "title": "とんちんかんちん一休さん",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "相内恵、ヤング・フレッシュ",
+  "composer_credit": "宇野誠一郎",
+  "year": 1975,
+  "year_label": "1975",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《聪明的一休》动画原声",
+  "context": "《聪明的一休》片头曲",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "录像带"
+  ],
+  "notes": "80/90后早期电视引进动画共同记忆；原曲发行早于统计起点，因国内传播纳入",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/一休和尚",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

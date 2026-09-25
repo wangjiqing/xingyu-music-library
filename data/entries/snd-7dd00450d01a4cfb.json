@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "snd-7dd00450d01a4cfb",
+  "title": "相思风雨中",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张学友、汤宝如",
+  "composer_credit": "徐日勤",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《真情流露》",
+  "context": "经典男女对唱",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "对唱"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/真情流露",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 241
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 136
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 64
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

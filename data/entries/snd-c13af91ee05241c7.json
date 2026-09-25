@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-c13af91ee05241c7",
+  "title": "快乐小神仙",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "天唱组合",
+  "composer_credit": "肖白",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《快乐星球》电视剧原声",
+  "context": "《快乐星球》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "少儿科幻剧",
+    "主题曲"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "作词张藜；《快乐星球》系列核心主题歌",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/快乐星球/557313",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-1776a4caa168"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 817
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "少儿影视补遗_v25",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

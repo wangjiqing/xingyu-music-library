@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-da509f142de54dfd",
+  "title": "懂你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "满文军",
+  "composer_credit": "薛瑞光",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《懂你》",
+  "context": "电影《九香》插曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "亲情",
+    "母亲",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "黄小茂作词、薛瑞光作曲；母爱主题高传播作品",
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/懂你/18784",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-f1a85c25ef77"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 905
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "亲情家庭感恩记忆_v31",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

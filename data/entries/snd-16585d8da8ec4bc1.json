@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "snd-16585d8da8ec4bc1",
+  "title": "彩虹下面",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "赵雷",
+  "composer_credit": "赵雷",
+  "year": 2018,
+  "year_label": "2018",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《彩虹下面》单曲",
+  "context": "电影《西虹市首富》推广曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电影推广曲",
+    "民谣"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=uT5Sz1jTQMI",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 790
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 335
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 254
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 36
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 16
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

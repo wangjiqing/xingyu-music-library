@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-5c58dc51f868416e",
+  "title": "靠近我",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "田震",
+  "composer_credit": "杨嘉松",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《震撼》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "内地流行",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/田震",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 368
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 194
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-73b6ee851ad64f6f",
+  "title": "如果这都不算爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张学友",
+  "composer_credit": "伍佰",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《热》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 383
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 43
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 202
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 22
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 72
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

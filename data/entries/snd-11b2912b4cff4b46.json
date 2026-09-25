@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "snd-11b2912b4cff4b46",
+  "title": "天眼小神童片尾曲",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核",
+  "composer_credit": "待核",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《天眼小神童》动画原声",
+  "context": "《天眼小神童》片尾曲",
+  "language": "国语/英语混合",
+  "editorial_grade": "B",
+  "tags": [
+    "国产动画",
+    "ED"
+  ],
+  "carriers": [
+    "电视",
+    "少儿频道",
+    "VCD"
+  ],
+  "notes": "公开资料可确认片尾歌词与片尾曲存在，正式歌名、演唱及词曲署名待核",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/天眼小神童/9606704",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-e4bd2d87b351"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 822
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 98
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画考古_v26",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

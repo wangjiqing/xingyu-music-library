@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "snd-b1638be508ae43b7",
+  "title": "红河谷",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核（教材常见版本）",
+  "composer_credit": "加拿大民歌",
+  "year": null,
+  "year_label": "年代待核",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "加拿大民歌",
+  "context": "",
+  "language": "中文译配",
+  "editorial_grade": "A",
+  "tags": [
+    "外国民歌",
+    "校园",
+    "教材"
+  ],
+  "carriers": [
+    "音乐课",
+    "合唱"
+  ],
+  "notes": "加拿大民歌；教材长期传播，具体中文版本不强行绑定演唱者",
+  "sources": [
+    {
+      "url": "https://www.gdstp.com.cn/Latest/book_2228.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "year_uncertain",
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 860
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 36
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

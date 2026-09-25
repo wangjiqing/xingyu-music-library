@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-c1f8285c594c4193",
+  "title": "a song of storm and fire",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "梶浦由记",
+  "composer_credit": "梶浦由记",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《翼·年代记》原声",
+  "context": "《翼·年代记》代表配乐",
+  "language": "器乐/人声",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "OST"
+  ],
+  "carriers": [
+    "VCD",
+    "MP3",
+    "网络"
+  ],
+  "notes": "虽非OP/ED，但对作品音乐记忆非常重要",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/TSUBASA翼",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 502
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 125
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 51
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

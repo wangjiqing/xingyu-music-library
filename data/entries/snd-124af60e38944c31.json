@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-124af60e38944c31",
+  "title": "男人身上有热血",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "韩磊",
+  "composer_credit": "董立强",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《历史的天空》电视剧原声",
+  "context": "《历史的天空》主题歌/片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "历史剧",
+    "军旅剧",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "2000年代历史/军旅电视剧声音线的重要补遗",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/历史的天空/9739124",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-40de1994bcab"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 493
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 161
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "帝王历史剧OST_v22",
+      "row": 8
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

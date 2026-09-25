@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-7f54f2afaa0c478c",
+  "title": "勝利～善のテーマ～",
+  "aliases": [
+    "光明与希望",
+    "光芒与希望"
+  ],
+  "kind": "bgm",
+  "artist_credit": "有澤孝紀",
+  "composer_credit": "有澤孝紀",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "",
+  "context": "《数码宝贝大冒险》",
+  "language": "日本/器乐",
+  "editorial_grade": "S",
+  "tags": [
+    "动画配乐",
+    "BGM",
+    "胜利",
+    "希望等关键剧情场景"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "动画原声",
+    "网络"
+  ],
+  "notes": "中文互联网常俗称“光明与希望/光芒与希望”",
+  "sources": [
+    {
+      "url": "https://www.feelmee.jp/index.php/item/product/839",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e1108b0dd14d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "声音记忆_BGM",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

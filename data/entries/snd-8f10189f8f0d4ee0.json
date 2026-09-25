@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-8f10189f8f0d4ee0",
+  "title": "めざせポケモンマスター",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "松本梨香",
+  "composer_credit": "たなかひろかず",
+  "year": 1996,
+  "year_label": "1996",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《宝可梦》动画原声",
+  "context": "《宝可梦》初代片头曲",
+  "language": "日语",
+  "editorial_grade": "A",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "港台/碟片传播显著",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/神奇寶貝_(動畫)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 246
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

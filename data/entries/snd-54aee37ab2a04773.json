@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-54aee37ab2a04773",
+  "title": "Catch You Catch Me",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "グミ（日向めぐみ）",
+  "composer_credit": "广濑香美",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《魔卡少女樱》动画原声",
+  "context": "《魔卡少女樱》OP1",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "大陆电视时代辨识度极高",
+  "sources": [
+    {
+      "url": "https://cardcaptorsakura.huijiwiki.com/wiki/魔卡少女樱(TV动画)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 284
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 11
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 27
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-9500a1b1b9454b41",
+  "title": "多心",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "无印良品",
+  "composer_credit": "光良",
+  "year": 1996,
+  "year_label": "1996",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《掌心》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "无印良品",
+    "校园",
+    "情歌"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "校园"
+  ],
+  "notes": "无印良品早期高传播曲目",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/artist/2XENZxR4W0fPdlnVZnaxcp",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 880
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

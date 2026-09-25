@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-fe2e20a58e5243df",
+  "title": "稻草人",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林志颖",
+  "composer_credit": "林俊杰",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《稻草人》",
+  "context": "《绝代双骄》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "武侠",
+    "CD"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "VCD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www2.kugou.kugou.com/yueku/v9/special/single/9250333-8-1106.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 342
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 129
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

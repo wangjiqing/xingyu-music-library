@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-8dc565cbdd434e3b",
+  "title": "疼你的责任",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "品冠",
+  "composer_credit": "品冠",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《疼你的责任》",
+  "context": "《人间四月天》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "品冠单飞首专主打",
+  "sources": [
+    {
+      "url": "https://www.kiss.com.tw/music/album.php?id=1800",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 392
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 208
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

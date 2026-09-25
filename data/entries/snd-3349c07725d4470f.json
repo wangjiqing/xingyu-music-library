@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-3349c07725d4470f",
+  "title": "神话情话",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "周华健、齐豫",
+  "composer_credit": "周华健",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《神雕侠侣》电视剧原声",
+  "context": "1995 TVB《神雕侠侣》主题曲",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "武侠",
+    "港剧"
+  ],
+  "carriers": [
+    "电视",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_1630556585_613051a9001016jvw.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 242
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 105
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

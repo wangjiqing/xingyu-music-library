@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-c0f4c8e133e849fc",
+  "title": "登录界面音乐（大转移前） / Character Select Stage",
+  "aliases": [
+    "登录界面音乐（大转移前）",
+    "Character Select Stage"
+  ],
+  "kind": "bgm",
+  "artist_credit": "Neople",
+  "composer_credit": "Neople",
+  "year": null,
+  "year_label": "2008起",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "",
+  "context": "《地下城与勇士》",
+  "language": "韩国/器乐",
+  "editorial_grade": "S",
+  "tags": [
+    "游戏BGM",
+    "登录",
+    "角色选择"
+  ],
+  "carriers": [
+    "PC网游",
+    "网吧",
+    "客户端"
+  ],
+  "notes": "启动游戏即触发的强记忆入口",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/album/5DJoMkIlDEFgtCsgG2QtGA",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "year_uncertain"
+  ],
+  "collection_ids": [
+    "col-e1108b0dd14d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "声音记忆_BGM",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

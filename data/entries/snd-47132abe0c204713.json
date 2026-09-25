@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-47132abe0c204713",
+  "title": "朋友首日封",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "光良",
+  "composer_credit": "光良",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《第一次个人创作专辑》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "友情",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "MP3"
+  ],
+  "notes": "陈静楠作词",
+  "sources": [
+    {
+      "url": "https://www.joox.com/hk/album/Jy0mWkLlF21jKRWVf2Lx1Q%3D%3D",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-88d3fa5b46fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 865
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "光良MP3时代深挖_v29",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

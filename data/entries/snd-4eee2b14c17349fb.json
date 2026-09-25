@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-4eee2b14c17349fb",
+  "title": "爱江山更爱美人",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李丽芬",
+  "composer_credit": "小虫",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《就这样约定》",
+  "context": "中视《倚天屠龙记》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "武侠",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "VCD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/collection_3_889747172_169_0.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 217
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 99
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 120
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

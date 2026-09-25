@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-f6772dd4cc6c4977",
+  "title": "信自己",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "叶倩文、杜德伟",
+  "composer_credit": "J. Harris III / T. Lewis",
+  "year": 1991,
+  "year_label": "1991",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《关怀》",
+  "context": "",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "港乐",
+    "合唱",
+    "劲歌"
+  ],
+  "carriers": [
+    "CD",
+    "电视",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/2788224.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 145
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 66
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 69
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 47
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

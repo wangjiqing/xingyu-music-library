@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-1f85fdb8d1c648c7",
+  "title": "最想念的季节",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "品冠",
+  "composer_credit": "小渕健太郎",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《U-Turn 180度转弯》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "MP3",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "品冠个人时期高传播曲目",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/album/5fL5GAz3WqNRYK7h3SAUfV",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 894
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 17
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "snd-8fa2f505915e4340",
+  "title": "茉莉花",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核（多版本）",
+  "composer_credit": "民歌",
+  "year": null,
+  "year_label": "年代待核",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "江苏民歌",
+  "context": "",
+  "language": "国语/方言源流",
+  "editorial_grade": "S",
+  "tags": [
+    "民族",
+    "民歌",
+    "教材"
+  ],
+  "carriers": [
+    "音乐课",
+    "广播",
+    "晚会",
+    "合唱"
+  ],
+  "notes": "江苏民歌代表；版本源流复杂，本表按传统民歌处理，不指定单一创作年份/演唱者",
+  "sources": [
+    {
+      "url": "https://www.gdstp.com.cn/Latest/book_2228.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "year_uncertain",
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 858
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 34
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

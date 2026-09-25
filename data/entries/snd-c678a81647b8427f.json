@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "snd-c678a81647b8427f",
+  "title": "马丁的早晨主题曲",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核",
+  "composer_credit": "Didier Riey、Gérald Roberts",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《马丁的早晨》动画原声",
+  "context": "《马丁的早晨》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "中法合拍动画",
+    "OP"
+  ],
+  "carriers": [
+    "CCTV-1",
+    "地方少儿频道",
+    "DVD"
+  ],
+  "notes": "法国2003年播出；中国大陆2004-02-17起在CCTV-1播出；片尾为主题曲器乐版",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/马丁的早晨/10281538",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-e4bd2d87b351"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 820
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 96
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画考古_v26",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

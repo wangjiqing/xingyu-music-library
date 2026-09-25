@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "snd-d9c731a507b94f6b",
+  "title": "遇到",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "方雅贤",
+  "composer_credit": "黄慧雯",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《恶作剧之吻》电视原声带",
+  "context": "《恶作剧之吻》插曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "偶像剧",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "MP3"
+  ],
+  "notes": "湘琴与直树邂逅主题",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/惡作劇之吻_(2005年電視劇)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 552
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 165
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 178
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 48
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 49
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

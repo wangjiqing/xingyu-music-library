@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-66d171173235401a",
+  "title": "少年",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "光良、曹格",
+  "composer_credit": "光良、曹格",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《童话》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "合唱",
+    "青春"
+  ],
+  "carriers": [
+    "CD",
+    "MP3"
+  ],
+  "notes": "光良、曹格合唱；滚石精选《十光年》亦收录",
+  "sources": [
+    {
+      "url": "https://ent.sina.cn/music/ygangtai/2006-09-25/detail-icesifvy0807806.d.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-88d3fa5b46fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 871
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "光良MP3时代深挖_v29",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

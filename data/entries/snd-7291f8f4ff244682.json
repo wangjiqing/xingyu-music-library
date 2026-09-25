@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-7291f8f4ff244682",
+  "title": "そばかす",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "JUDY AND MARY",
+  "composer_credit": "恩田快人",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《浪客剑心》动画原声",
+  "context": "《浪客剑心》OP1",
+  "language": "日语",
+  "editorial_grade": "A",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "国内碟片/电视传播年份较分散",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/神劍闖江湖_(動畫)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 657
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 235
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 56
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-476c2ab0f3744646",
+  "title": "自从有了你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "赵薇",
+  "composer_credit": "左宏元",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《还珠格格音乐全纪录》",
+  "context": "《还珠格格》第二部片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/还珠格格音乐全纪录",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 343
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 130
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

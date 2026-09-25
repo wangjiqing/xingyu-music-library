@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-05b12786e76c4ae9",
+  "title": "涛声依旧",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "毛宁",
+  "composer_credit": "陈小奇",
+  "year": 1993,
+  "year_label": "1993",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《请让我的情感留在你身边》",
+  "context": "内地流行经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "晚会",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/毛宁",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 193
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 91
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 102
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

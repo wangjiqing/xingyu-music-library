@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-6eedcde27f764732",
+  "title": "那就是你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "朴慧京（박혜경）",
+  "composer_credit": "李惠俊（이혜준）",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《瑶玲啊瑶玲》动画原声",
+  "context": "《瑶玲啊瑶玲》片头曲；韩国原名《바로 너야》",
+  "language": "国语/韩语",
+  "editorial_grade": "A",
+  "tags": [
+    "引进",
+    "中韩动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "DVD"
+  ],
+  "notes": "原作2003年韩国KBS2首播，2004年在中国大陆播出；大陆传播存在中文版本，保留中韩版本关系",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/瑶玲啊瑶玲/6739201",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7ce41203cc67",
+    "col-269e8b6b68b2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 799
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 58
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画补遗_v23",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

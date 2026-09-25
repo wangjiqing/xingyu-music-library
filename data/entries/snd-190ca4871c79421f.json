@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-190ca4871c79421f",
+  "title": "谢谢你的爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "熊美玲",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《谢谢你的爱》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "刘德华",
+    "国语",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "刘德华作词、熊美玲作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa6243/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 917
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 4
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

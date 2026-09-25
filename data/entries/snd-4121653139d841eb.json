@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-4121653139d841eb",
+  "title": "情愿离开",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "欢子",
+  "composer_credit": "待核",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《愚爱》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络情歌",
+    "MP3",
+    "彩铃"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "《愚爱》时期曲目；另有郑源翻唱传播版本",
+  "sources": [
+    {
+      "url": "https://music.amazon.com/albums/B0GZV649DC",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d084e73105c6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 1014
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "网络情歌深挖_v39",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

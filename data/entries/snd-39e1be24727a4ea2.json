@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-39e1be24727a4ea2",
+  "title": "歌唱祖国",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核（多版本）",
+  "composer_credit": "王莘",
+  "year": 1950,
+  "year_label": "1950",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "经典群众歌曲",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "时代",
+    "群众歌曲",
+    "合唱"
+  ],
+  "carriers": [
+    "学校",
+    "广播",
+    "电视晚会",
+    "重大活动"
+  ],
+  "notes": "王莘词曲；1950年创作，1951年广泛推广；具体录音版本众多，主表不强行指定单一演唱者",
+  "sources": [
+    {
+      "url": "https://paper.people.com.cn/hwbwap/html/2021-11/08/content_25887642.htm",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 826
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

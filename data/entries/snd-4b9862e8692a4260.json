@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "snd-4b9862e8692a4260",
+  "title": "天使",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许嵩",
+  "composer_credit": "许嵩",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "公益歌曲",
+  "context": "汶川地震遇难孩子相关公益创作",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "网络歌曲",
+    "公益"
+  ],
+  "carriers": [
+    "MP3",
+    "网络"
+  ],
+  "notes": "年份按创作背景",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 671
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

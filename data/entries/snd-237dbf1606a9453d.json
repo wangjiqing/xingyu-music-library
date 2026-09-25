@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-237dbf1606a9453d",
+  "title": "原来是爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "邝美云",
+  "composer_credit": "因葵",
+  "year": 1990,
+  "year_label": "1990",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《渴望》香港粤语版",
+  "context": "电视剧《渴望》香港粤语版主题曲",
+  "language": "粤语",
+  "editorial_grade": "B",
+  "tags": [
+    "经典电视剧",
+    "粤语版",
+    "主题曲"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "冯添枝作词、因葵作曲",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/渴望/2113211",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-73d86d0f739d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 980
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "999里程碑终局补遗_v37",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

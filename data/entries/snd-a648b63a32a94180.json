@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-a648b63a32a94180",
+  "title": "情人",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "Beyond",
+  "composer_credit": "黄家驹",
+  "year": 1993,
+  "year_label": "1993",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《乐与怒》",
+  "context": "Beyond经典",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "摇滚",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/樂與怒",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 189
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 98
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 57
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

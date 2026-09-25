@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-801fc6f80ee04ef0",
+  "title": "看透爱情看透你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "冷漠",
+  "composer_credit": "待核",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《看透爱情看透你》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络歌曲",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "网络"
+  ],
+  "notes": "冷漠早期代表网络情歌",
+  "sources": [
+    {
+      "url": "https://music.apple.com/us/album/看透爱情看透你-ep/1800226865",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 726
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

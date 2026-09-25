@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-7797b5650c5746e3",
+  "title": "爱情里没有谁对谁错",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源、T.R.Y",
+  "composer_credit": "巴图",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《擦肩而过》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "彩铃",
+    "对唱情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "KTV"
+  ],
+  "notes": "巴图词曲；郑源与T.R.Y对唱",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/擦肩而过/66939893",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 8
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 8
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

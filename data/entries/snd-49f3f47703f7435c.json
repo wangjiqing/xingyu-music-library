@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-49f3f47703f7435c",
+  "title": "在我生命中的每一天",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙、苏慧伦",
+  "composer_credit": "李宗盛",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《第一次》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "合唱",
+    "演员演唱"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "成龙、苏慧伦合唱",
+  "sources": [
+    {
+      "url": "https://shop.rockmall.com.tw/product_view.php?id=52607",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 160
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 78
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

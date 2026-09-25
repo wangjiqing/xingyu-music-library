@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-0f409095350b4af7",
+  "title": "掌声响起",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "凤飞飞",
+  "composer_credit": "陈进兴",
+  "year": 1986,
+  "year_label": "1986",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《掌声响起》",
+  "context": "励志经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "舞台",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "广播",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_27719597",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 68
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 39
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 28
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

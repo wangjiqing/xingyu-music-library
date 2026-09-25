@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-9c26cbfec1b64eb6",
+  "title": "淋雨中",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林宇中",
+  "composer_credit": "林宇中",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《淋雨中》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "海蝶",
+    "情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/us/artist/rynn-lim/890324308",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 637
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 222
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 319
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 78
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

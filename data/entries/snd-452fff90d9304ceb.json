@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-452fff90d9304ceb",
+  "title": "梦回的家乡",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢",
+  "composer_credit": "刘欢",
+  "year": 1995,
+  "year_label": "1995",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《上海人在东京》电视剧原声",
+  "context": "电视剧《上海人在东京》主题歌",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "海外奋斗剧",
+    "主题歌"
+  ],
+  "carriers": [
+    "电视",
+    "CD"
+  ],
+  "notes": "刘欢创作并演唱",
+  "sources": [
+    {
+      "url": "https://www.sohu.com/a/43491300_184627",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-73d86d0f739d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 998
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "999里程碑终局补遗_v37",
+      "row": 27
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "snd-d955155144444387",
+  "title": "宁夏",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "梁静茹",
+  "composer_credit": "李正帆",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《燕尾蝶 下定爱的决心》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/6224914.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 477
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 105
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 245
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 26
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

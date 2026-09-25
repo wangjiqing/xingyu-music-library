@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-6b91c6550e574ae8",
+  "title": "我只在乎你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "邓丽君",
+  "composer_credit": "三木刚",
+  "year": 1988,
+  "year_label": "1988",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我只在乎你》",
+  "context": "改编自《時の流れに身をまかせ》",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "磁带",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/我只在乎你",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 96
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 48
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 42
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

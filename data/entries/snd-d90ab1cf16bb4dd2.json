@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "snd-d90ab1cf16bb4dd2",
+  "title": "我的梦里",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑颖、董昭田",
+  "composer_credit": "大飞",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《可可可心一家人》动画原声",
+  "context": "《可可可心一家人》片尾曲",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "国产动画",
+    "ED"
+  ],
+  "carriers": [
+    "电视",
+    "动画城"
+  ],
+  "notes": "作词武寒清、杨子岚",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/可可可心一家人/9265666",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-25785215cf20"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 804
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 82
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画深挖_v24",
+      "row": 4
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

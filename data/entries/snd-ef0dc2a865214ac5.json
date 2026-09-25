@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-ef0dc2a865214ac5",
+  "title": "天上掉下个猪八戒",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "渠成",
+  "composer_credit": "待核",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《天上掉下个猪八戒》动画原声",
+  "context": "《天上掉下个猪八戒》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "“八戒八戒，心肠不坏”",
+  "sources": [
+    {
+      "url": "https://bangumi.tv/subject/78494",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending",
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 475
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 48
+    }
+  ],
+  "related_entry_ids": [
+    "snd-438f84a485d246ff"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

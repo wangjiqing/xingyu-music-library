@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-1754eb02309a4496",
+  "title": "明天会更好",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "群星",
+  "composer_credit": "罗大佑",
+  "year": 1985,
+  "year_label": "1985",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "公益单曲",
+  "context": "群星合唱",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "公益",
+    "爱国",
+    "校园",
+    "晚会"
+  ],
+  "carriers": [
+    "磁带",
+    "电视",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/華語流行音樂",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-7a58cbb148b1",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 57
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 35
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 9
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 34
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

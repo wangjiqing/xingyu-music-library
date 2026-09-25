@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-b1f91e96f49e4e99",
+  "title": "在心里从此永远有个你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "办桌二人组",
+  "composer_credit": "徐嘉良",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《永远的朋友》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络歌曲",
+    "情歌",
+    "KTV"
+  ],
+  "carriers": [
+    "MP3",
+    "网络",
+    "KTV"
+  ],
+  "notes": "高安词；典型网络情歌传播路径",
+  "sources": [
+    {
+      "url": "https://www.shazam.com/zh-tw/song/1513171482/在心裡從此永遠有個你",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 670
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

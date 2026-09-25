@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-81446082a406494a",
+  "title": "包青天",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡瓜",
+  "composer_credit": "詹森雄",
+  "year": 1993,
+  "year_label": "1993",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包青天》电视剧原声",
+  "context": "华视《包青天》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "古装",
+    "台剧"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www2.kugou.kugou.com/yueku/v9/special/single/9250333-8-1106.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 184
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 86
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

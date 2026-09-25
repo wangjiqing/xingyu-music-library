@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-a3925f00f5b64117",
+  "title": "有谁共鸣",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张国荣",
+  "composer_credit": "谷村新司",
+  "year": 1986,
+  "year_label": "1986",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱火》",
+  "context": "",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "港乐",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/張國榮音樂作品列表",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 70
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 30
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 19
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

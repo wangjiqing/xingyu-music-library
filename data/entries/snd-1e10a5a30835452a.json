@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "snd-1e10a5a30835452a",
+  "title": "一万一绝对拯救",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核",
+  "composer_credit": "待核",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《一万一绝对拯救》动画原声",
+  "context": "国产动画《一万一绝对拯救》同名主题曲（正式音乐资料待考）",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "国产动画",
+    "主题曲"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "网络留存"
+  ],
+  "notes": "动画2004年前后播出；现存网络资料可确认同名主题曲存在；演唱、词曲、正式发行信息暂留待核",
+  "sources": [
+    {
+      "url": "https://ent.sina.com.cn/v/2004-07-01/1935432449.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-269e8b6b68b2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 801
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 79
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画补遗_v23",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

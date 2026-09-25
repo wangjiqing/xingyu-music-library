@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-0f0df2ccae47485e",
+  "title": "他一定很爱你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "阿杜",
+  "composer_credit": "李志清",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《天黑》",
+  "context": "阿杜代表作",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "KTV",
+    "MP3",
+    "苦情歌"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "“车底”名句形成长期网络记忆",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1cYkbYAEiG/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 400
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 50
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 211
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

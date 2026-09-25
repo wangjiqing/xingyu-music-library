@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "snd-505973e2a848498b",
+  "title": "你在终点等我",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "王菲",
+  "composer_credit": "陈小霞",
+  "year": 2016,
+  "year_label": "2016",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《从你的全世界路过》电影原声",
+  "context": "电影《从你的全世界路过》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电影原声",
+    "青春"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "QQ音乐"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xuexila.com/lizhi/gequ/1603998.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 778
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 99
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 323
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 242
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 24
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 11
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 87
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

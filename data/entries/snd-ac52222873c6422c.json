@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "snd-ac52222873c6422c",
+  "title": "蒲公英的约定",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "周杰伦",
+  "composer_credit": "周杰伦",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我很忙》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "MP3",
+    "校园",
+    "QQ音乐"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-197eff77a6af",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 648
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 82
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 229
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 325
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 34
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 80
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

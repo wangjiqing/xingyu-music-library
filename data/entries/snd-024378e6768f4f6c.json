@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "snd-024378e6768f4f6c",
+  "title": "时间都去哪儿了",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "王铮亮",
+  "composer_credit": "董冬冬",
+  "year": 2013,
+  "year_label": "2013",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱的自选》/《私人订制》插曲",
+  "context": "2013《私人订制》插曲；2014春晚形成二次传播",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "春晚",
+    "时代歌曲"
+  ],
+  "carriers": [
+    "电影",
+    "电视",
+    "春晚",
+    "网络"
+  ],
+  "notes": "原为2011电视剧《老牛家的战争》片尾曲，电影与春晚再次放大传播",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/时间都去哪儿了",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 762
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 307
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 226
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 8
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

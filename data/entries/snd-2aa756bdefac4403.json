@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-2aa756bdefac4403",
+  "title": "世界第一等",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "伍佰",
+  "year": 1997,
+  "year_label": "1997",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱在刻骨铭心时》",
+  "context": "",
+  "language": "闽南语",
+  "editorial_grade": "S",
+  "tags": [
+    "闽南语",
+    "KTV",
+    "江湖气质"
+  ],
+  "carriers": [
+    "CD",
+    "VCD",
+    "KTV"
+  ],
+  "notes": "伍佰词曲；刘德华高传播闽南语作品",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/《经典重现》/1019648",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 925
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 12
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

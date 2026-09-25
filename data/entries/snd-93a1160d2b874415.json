@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-93a1160d2b874415",
+  "title": "爱过不后悔",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "贝若德华、帅帅侠",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包容》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "MP3",
+    "网络情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "网络"
+  ],
+  "notes": "贝若德华、帅帅侠词曲",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/track/61QUuWgBNHmeXR3FYzxJEz",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 19
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 19
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

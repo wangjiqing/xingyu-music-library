@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-a4dda79635c74811",
+  "title": "遗失的美好",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张韶涵",
+  "composer_credit": "黄汉青",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《Over The Rainbow》",
+  "context": "《海豚湾恋人》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "偶像剧",
+    "电视",
+    "MP3"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/Over_The_Rainbow_(張韶涵專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 456
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 92
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 153
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 20
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

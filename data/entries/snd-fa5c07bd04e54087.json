@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "snd-fa5c07bd04e54087",
+  "title": "后会无期",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "G.E.M.邓紫棋",
+  "composer_credit": "Arthur Kent、Sylvia Dee",
+  "year": 2014,
+  "year_label": "2014",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《后会无期》电影原声",
+  "context": "电影《后会无期》同名主题歌",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "青春",
+    "KTV"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "改编自《The End of the World》旋律",
+  "sources": [
+    {
+      "url": "https://www.shazam.com/zh/track/142725979/-",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 766
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 95
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 311
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 230
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 368
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 12
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 4
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 79
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

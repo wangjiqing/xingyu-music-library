@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-68546c87b89b44f6",
+  "title": "婆婆丁黄",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小柯",
+  "composer_credit": "小柯",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《日子》",
+  "context": "电视剧《贫嘴张大民的幸福生活》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "都市生活剧",
+    "插曲"
+  ],
+  "carriers": [
+    "电视",
+    "CD"
+  ],
+  "notes": "小柯词曲并演唱；收录于影视作品精选《日子》",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/婆婆丁黄/4941982",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d312c035cda8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 972
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "情景喜剧都市剧OST_v36",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "snd-aa35206038424e2f",
+  "title": "惟爱你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许嵩",
+  "composer_credit": "许嵩",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "早期网络作品",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "网络歌曲"
+  ],
+  "carriers": [
+    "MP3",
+    "QQ空间",
+    "网络"
+  ],
+  "notes": "年份/正式发行状态待核",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending",
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 624
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

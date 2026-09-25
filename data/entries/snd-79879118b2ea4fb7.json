@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-79879118b2ea4fb7",
+  "title": "有梦好甜蜜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡彦斌",
+  "composer_credit": "彭程",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我为歌狂》动画原声",
+  "context": "《我为歌狂》插曲/代表曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "OST"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV15x411J7c2/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 362
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 30
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 33
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

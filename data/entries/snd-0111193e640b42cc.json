@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-0111193e640b42cc",
+  "title": "美了美了",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳、汤潮",
+  "composer_credit": "汤潮",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "单曲",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络",
+    "春晚后明星演唱"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "小沈阳与汤潮合作的高传播作品",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/小沈阳",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 932
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 19
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

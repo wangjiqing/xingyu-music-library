@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-79aafd7b4305423d",
+  "title": "一万个理由",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "郑源",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《真的用心良苦》",
+  "context": "彩铃时代标志性歌曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "网络",
+    "彩铃",
+    "KTV"
+  ],
+  "carriers": [
+    "彩铃",
+    "MP3",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_1340604587_4fe800ab00100xd5x.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 504
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 127
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 258
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 29
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

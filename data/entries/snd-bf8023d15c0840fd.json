@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-bf8023d15c0840fd",
+  "title": "起床",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "无印良品",
+  "composer_credit": "品冠",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《想见你》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "无印良品",
+    "校园",
+    "生活感"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "MP3"
+  ],
+  "notes": "王裕宗作词、品冠作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa32267/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 890
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

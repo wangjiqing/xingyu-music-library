@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-1871ee5c660049cc",
+  "title": "蓝莲花",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许巍",
+  "composer_credit": "许巍",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《时光·漫步》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "内地摇滚",
+    "唱作",
+    "代表作"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/许巍",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-35490ac26f69"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 417
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 64
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 220
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 25
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

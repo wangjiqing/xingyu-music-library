@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-e554a38bc5c547aa",
+  "title": "都要好好的",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳、沈春阳",
+  "composer_credit": "高进",
+  "year": 2011,
+  "year_label": "2011",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我叫小沈阳》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "夫妻对唱",
+    "网络",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "高进、小沈阳作词，高进作曲",
+  "sources": [
+    {
+      "url": "https://www.mulanci.org/lyric/sa9615/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 936
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 23
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

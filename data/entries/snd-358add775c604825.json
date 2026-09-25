@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "snd-358add775c604825",
+  "title": "爱就一个字",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张信哲",
+  "composer_credit": "Jean-Michel Ou",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "动画电影《宝莲灯》原声",
+  "context": "动画电影《宝莲灯》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "动画",
+    "电影原声",
+    "KTV"
+  ],
+  "carriers": [
+    "VCD",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/宝莲灯_(1999年电影)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 337
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 4
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 181
+    }
+  ],
+  "related_entry_ids": [
+    "snd-a6e838f3e33f4c49"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

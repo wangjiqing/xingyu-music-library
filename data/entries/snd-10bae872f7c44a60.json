@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-10bae872f7c44a60",
+  "title": "相约一九九八",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "王菲、那英",
+  "composer_credit": "肖白",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "春晚歌曲",
+  "context": "1998央视春晚",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "春晚",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/collection_3_889747172_169_0.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 302
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 123
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

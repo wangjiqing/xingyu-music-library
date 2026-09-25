@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-8215c842212045fd",
+  "title": "永远永远",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李翊君",
+  "composer_credit": "吴梵",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《风云》电视剧原声",
+  "context": "《风云雄霸天下》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "武侠",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www2.kugou.kugou.com/yueku/v9/special/single/9250333-8-1106.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 411
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 58
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 142
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

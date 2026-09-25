@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-294f0af470b64e4c",
+  "title": "棉花糖",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "至上励合",
+  "composer_credit": "马雪阳",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《降临》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "偶像组合",
+    "校园",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "MP3",
+    "校园",
+    "KTV"
+  ],
+  "notes": "内地偶像组合时代代表作",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 688
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-ac6ecbc8f8614e12",
+  "title": "圆梦",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "衡越",
+  "composer_credit": "杨柏森",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《刘老根》电视剧原声",
+  "context": "电视剧《刘老根》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "东北影视",
+    "农村剧",
+    "片尾"
+  ],
+  "carriers": [
+    "电视",
+    "VCD"
+  ],
+  "notes": "《刘老根》片尾歌曲；具体词作者待进一步核校",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/刘老根",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-4cc0e79fe23f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 944
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "赵本山系影视OST_v34",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

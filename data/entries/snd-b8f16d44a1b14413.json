@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-b8f16d44a1b14413",
+  "title": "苦乐年华",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "范琳琳",
+  "composer_credit": "徐沛东",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《篱笆·女人和狗》电视剧原声",
+  "context": "电视剧《篱笆·女人和狗》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "农村三部曲",
+    "片尾",
+    "东北影视"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "张藜作词、徐沛东作曲；电视剧通行片尾版本由范琳琳演唱",
+  "sources": [
+    {
+      "url": "https://www.pishu.com.cn/skwx_ps/ps/literature?ID=7927780&SiteID=14",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-be2ff47dd0cd"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 952
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "东北农村剧声音记忆_v35",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

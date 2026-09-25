@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-72baa862ccd44653",
+  "title": "十五的月亮",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "董文华",
+  "composer_credit": "铁源、徐锡宜",
+  "year": 1984,
+  "year_label": "1984",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "代表作",
+  "context": "军旅题材",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "军旅",
+    "爱国",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "广播",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 44
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 30
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 25
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-c9d9923120cf4a99",
+  "title": "信仰",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张信哲",
+  "composer_credit": "陈耀川",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《信仰》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "KTV",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/playlist/2000-%E5%B9%B4%E5%9B%BD%E8%AF%AD%E6%B5%81%E8%A1%8C%E7%95%85%E9%94%80%E9%87%91%E6%9B%B2/pl.8a2e161509744600ba82d7d2d2c64b53",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-197eff77a6af"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 351
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 184
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

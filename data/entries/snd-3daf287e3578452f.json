@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-3daf287e3578452f",
+  "title": "万里长城永不倒",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "叶振棠",
+  "composer_credit": "黎小田",
+  "year": 1981,
+  "year_label": "1981",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《大侠霍元甲》电视剧原声",
+  "context": "《大侠霍元甲》主题曲",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "港剧",
+    "爱国"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "内地引进港剧的重要声音记忆",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1BV411t73P/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 8
+    }
+  ],
+  "related_entry_ids": [
+    "snd-e8f3e7feaa4e4677"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-9098cd7baeb44204",
+  "title": "我以为",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "品冠",
+  "composer_credit": "品冠",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱到无可救药》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "KTV",
+    "MP3",
+    "苦情歌"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "品冠个人时期代表作之一",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/品冠",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ec9d57f05da8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 900
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "无印良品品冠深挖_v30",
+      "row": 23
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

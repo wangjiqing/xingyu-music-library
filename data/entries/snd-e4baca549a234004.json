@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "snd-e4baca549a234004",
+  "title": "隐形的翅膀",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张韶涵",
+  "composer_credit": "王雅君",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《潘朵拉》",
+  "context": "年度传播高峰",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "励志",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园"
+  ],
+  "notes": "发行跨2005-2006传播",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/潘朵拉_(張韶涵專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 605
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 79
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 203
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 307
+    }
+  ],
+  "related_entry_ids": [
+    "snd-13a0702c088f46e4"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

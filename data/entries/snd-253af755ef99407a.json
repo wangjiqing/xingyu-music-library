@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-253af755ef99407a",
+  "title": "别说我的眼泪你无所谓",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "东来东往",
+  "composer_credit": "阳冰",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《回到我身边》",
+  "context": "网络情歌代表",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "网络",
+    "彩铃",
+    "MP3"
+  ],
+  "carriers": [
+    "网络",
+    "MP3",
+    "彩铃"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_6450434878_18079d33e001006ry3.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 472
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 102
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 243
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

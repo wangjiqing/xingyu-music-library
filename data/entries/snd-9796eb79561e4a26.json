@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "snd-9796eb79561e4a26",
+  "title": "不公平",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "Jenny Yang（萧贺硕）",
+  "composer_credit": "待核",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《斗鱼 电视原声带》",
+  "context": "《斗鱼》片头主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "偶像剧",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "VCD"
+  ],
+  "notes": "《斗鱼》第一部片头曲",
+  "sources": [
+    {
+      "url": "https://www.warnermusic.com.tw/products/the-outsider-ost-lp-vinyl",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec",
+    "col-b51cd96b856a"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 464
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 155
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 24
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 16
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶深挖_斗鱼海派",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "snd-f04d84cd21ac4e47",
+  "title": "送别",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "无单一原唱（李叔同填词）",
+  "composer_credit": "John P. Ordway",
+  "year": 1915,
+  "year_label": "1915",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "学堂乐歌",
+  "context": "后长期用于校园与影视离别场景",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "学堂乐歌",
+    "校园",
+    "离别",
+    "跨世代共同记忆"
+  ],
+  "carriers": [
+    "音乐课",
+    "校园",
+    "广播电视",
+    "影视"
+  ],
+  "notes": "李叔同填词、编曲；旋律源自John P. Ordway《Dreaming of Home and Mother》；作品年代远早于80/90后，但通过学校音乐教育、影视与公共文化长期传播，作为“发行年代≠记忆年代”的特例收录",
+  "sources": [
+    {
+      "url": "https://zjnews.zjol.com.cn/zjxc/202310/t20231026_26391633.shtml",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b1895e26358b"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 1025
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "跨世代声音记忆_v40",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

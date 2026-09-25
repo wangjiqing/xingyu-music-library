@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-6fab955e3d4f421c",
+  "title": "红豆",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "王菲",
+  "composer_credit": "柳重言",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《唱游》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "CD",
+    "KTV",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "CD",
+    "广播",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://music.apple.com/cn/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607",
+    "col-197eff77a6af"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 305
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 170
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌手代表作扫描",
+      "row": 18
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

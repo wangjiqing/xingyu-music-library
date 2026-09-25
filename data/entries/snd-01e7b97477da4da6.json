@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-01e7b97477da4da6",
+  "title": "温柔",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "五月天",
+  "composer_credit": "阿信",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱情万岁》",
+  "context": "五月天经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "乐队",
+    "KTV",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.hechanghong.com/article/jingdiangequ/229.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 364
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 39
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 31
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 190
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

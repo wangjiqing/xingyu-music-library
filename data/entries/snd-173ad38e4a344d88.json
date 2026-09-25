@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "snd-173ad38e4a344d88",
+  "title": "噢！苏珊娜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核（教材常见版本）",
+  "composer_credit": "Stephen Foster",
+  "year": null,
+  "year_label": "年代待核",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "美国歌曲",
+  "context": "",
+  "language": "中文译配/英语",
+  "editorial_grade": "A",
+  "tags": [
+    "外国歌曲",
+    "校园",
+    "教材"
+  ],
+  "carriers": [
+    "音乐课",
+    "口琴",
+    "竖笛",
+    "合唱"
+  ],
+  "notes": "福斯特词曲；中国小学音乐教育长期传播",
+  "sources": [
+    {
+      "url": "https://www.gdstp.com.cn/Latest/book_2228.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "year_uncertain",
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 861
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 37
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

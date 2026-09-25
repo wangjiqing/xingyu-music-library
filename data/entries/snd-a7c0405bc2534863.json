@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-a7c0405bc2534863",
+  "title": "爱在深秋",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "谭咏麟",
+  "composer_credit": "李镐俊",
+  "year": 1984,
+  "year_label": "1984",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱的根源》",
+  "context": "香港流行经典",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "磁带",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "广播",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 47
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 32
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 16
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

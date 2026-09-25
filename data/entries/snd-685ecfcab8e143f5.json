@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-685ecfcab8e143f5",
+  "title": "包容",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "马健涛",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包容》",
+  "context": "郑源后期代表作",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络",
+    "彩铃",
+    "KTV"
+  ],
+  "carriers": [
+    "QQ音乐",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_1340604587_4fe800ab00100xd5x.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 734
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 284
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 353
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 112
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

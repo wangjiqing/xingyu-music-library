@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-778e53db1c31430f",
+  "title": "对折",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "元若蓝",
+  "composer_credit": "方文良",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《命中注定我爱你》电视原声带",
+  "context": "《命中注定我爱你》原声带",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "台偶",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://musicbrainz.org/release/d429f933-2515-4ba7-a1f2-b46b62d8e47d",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ce6d63d1fcde"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 673
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST深挖_v17",
+      "row": 24
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

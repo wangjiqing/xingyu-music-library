@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-fcad79f24e4a475a",
+  "title": "快乐至上",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林志颖",
+  "composer_credit": "潘协庆",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《稻草人》",
+  "context": "《绝代双骄》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "武侠",
+    "校园"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "VCD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www2.kugou.kugou.com/yueku/v9/special/single/9250333-8-1106.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 330
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 33
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 127
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

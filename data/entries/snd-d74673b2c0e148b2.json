@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-d74673b2c0e148b2",
+  "title": "为什么相爱的人不能在一起",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "郑源",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《真的用心良苦》",
+  "context": "郑源代表作",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "网络",
+    "彩铃",
+    "KTV"
+  ],
+  "carriers": [
+    "彩铃",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_1340604587_4fe800ab00100xd5x.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 511
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 133
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 264
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

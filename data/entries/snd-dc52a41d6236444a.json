@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-dc52a41d6236444a",
+  "title": "少年壮志不言愁",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢",
+  "composer_credit": "雷蕾",
+  "year": 1987,
+  "year_label": "1987",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《便衣警察》电视剧原声",
+  "context": "电视剧《便衣警察》主题歌",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "经典电视剧",
+    "公安题材",
+    "主题歌"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "林汝为作词、雷蕾作曲",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_1583533994_5e62cfaa020017ss3.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-73d86d0f739d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 977
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "999里程碑终局补遗_v37",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

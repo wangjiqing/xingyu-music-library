@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-7169edb721594b27",
+  "title": "忘情水",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "陈耀川",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《忘情水》",
+  "context": "电影《天与地》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "VCD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/collection_3_889747172_169_0.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 211
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 97
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 116
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 60
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

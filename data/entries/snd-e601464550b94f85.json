@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-e601464550b94f85",
+  "title": "手掌心",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "丁当",
+  "composer_credit": "V.K克",
+  "year": 2013,
+  "year_label": "2013",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《兰陵王》电视剧原声",
+  "context": "《兰陵王》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1hK41137WA/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-37fee4c493f2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 761
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 306
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 225
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 366
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

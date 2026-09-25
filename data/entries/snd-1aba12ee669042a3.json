@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-1aba12ee669042a3",
+  "title": "任意门",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "杨丞琳",
+  "composer_credit": "杨阳",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《任意门》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "青春",
+    "MP3",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "电视"
+  ],
+  "notes": "同名专辑主打",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/任意門_(專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-59d1fb5cb8ec",
+    "col-b51cd96b856a"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 611
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 70
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶深挖_斗鱼海派",
+      "row": 18
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

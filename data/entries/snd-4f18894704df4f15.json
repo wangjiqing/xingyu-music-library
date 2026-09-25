@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-4f18894704df4f15",
+  "title": "漫步人生路",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "邓丽君",
+  "composer_credit": "中岛美雪",
+  "year": 1983,
+  "year_label": "1983",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《漫步人生路》",
+  "context": "改编自《ひとり上手》",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "磁带",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "广播",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 37
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 24
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

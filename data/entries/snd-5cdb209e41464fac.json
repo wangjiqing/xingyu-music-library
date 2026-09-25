@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-5cdb209e41464fac",
+  "title": "家园",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢",
+  "composer_credit": "刘欢",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《闯关东》电视剧原声",
+  "context": "《闯关东》主题/片尾相关歌曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视剧",
+    "主旋律"
+  ],
+  "carriers": [
+    "电视",
+    "影视原声"
+  ],
+  "notes": "不同资料对主题曲/片尾曲称谓有差异",
+  "sources": [
+    {
+      "url": "https://music.apple.com/us/song/1786583879",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 672
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

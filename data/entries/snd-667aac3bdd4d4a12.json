@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "snd-667aac3bdd4d4a12",
+  "title": "过敏",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "杨丞琳",
+  "composer_credit": "待核",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《遇上爱》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "MP3",
+    "青春情歌"
+  ],
+  "carriers": [
+    "CD",
+    "KTV",
+    "MP3"
+  ],
+  "notes": "杨丞琳早期代表情歌",
+  "sources": [
+    {
+      "url": "https://sonymusic.com.tw/album/%E5%8D%8A%E7%86%9F%E5%AE%A3%E8%A8%80-%E6%A5%8A%E4%B8%9E%E7%90%B3-rainie-yang-88697424252/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-59d1fb5cb8ec",
+    "col-b51cd96b856a"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 601
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 66
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶深挖_斗鱼海派",
+      "row": 16
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

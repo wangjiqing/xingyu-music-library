@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-d58b5993985b41f2",
+  "title": "犯错",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "斯琴高丽、顾峰",
+  "composer_credit": "顾峰",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《犯错》",
+  "context": "网络流行",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络",
+    "彩铃",
+    "MP3"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/斯琴高丽",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 722
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 276
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 347
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

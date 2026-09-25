@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "snd-c58258ce3bf44f95",
+  "title": "滴答",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "侃侃",
+  "composer_credit": "高地",
+  "year": 2012,
+  "year_label": "2012",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《北京爱情故事》电视剧原声",
+  "context": "《北京爱情故事》插曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声",
+    "民谣"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1u2fmBYEt6/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-37fee4c493f2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 760
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 305
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 224
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 365
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

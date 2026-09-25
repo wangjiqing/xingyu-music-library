@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-a0e158396334428f",
+  "title": "绿光",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "孙燕姿",
+  "composer_credit": "李偲菘",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《风筝》",
+  "context": "青春流行",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "CD",
+    "KTV",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/風箏_(孫燕姿專輯)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 394
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 46
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 209
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-db3c0b939c4343e6",
+  "title": "歌声与微笑",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "上海小荧星儿童合唱团",
+  "composer_credit": "谷建芬",
+  "year": 1986,
+  "year_label": "1986",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "经典少儿歌曲",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "少儿",
+    "校园",
+    "合唱"
+  ],
+  "carriers": [
+    "音乐课",
+    "少儿节目",
+    "晚会"
+  ],
+  "notes": "王健作词；1980年代末起广泛传播，教育部推荐合唱曲目",
+  "sources": [
+    {
+      "url": "https://www.moe.gov.cn/srcsite/A17/s7059/200903/t20090318_81114.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 844
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 20
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "snd-2a526bd819d24648",
+  "title": "大地恩情",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "关正杰",
+  "composer_credit": "黎小田",
+  "year": 1980,
+  "year_label": "1980",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《大地恩情》电视剧原声",
+  "context": "ATV《大地恩情》主题曲",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "港剧",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1BV411t73P/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "id": "snd-9cadc5742d614670",
+  "title": "夏洛特烦恼",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "金志文",
+  "composer_credit": "董冬冬",
+  "year": 2015,
+  "year_label": "2015",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《夏洛特烦恼》电影原声带",
+  "context": "电影《夏洛特烦恼》同名主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电影原声"
+  ],
+  "carriers": [
+    "电影",
+    "网络"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/28865.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 771
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 316
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 235
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 17
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

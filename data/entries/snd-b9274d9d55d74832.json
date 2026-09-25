@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-b9274d9d55d74832",
+  "title": "我爱你胜过你爱我",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "冷漠、杨小曼",
+  "composer_credit": "待核",
+  "year": 2011,
+  "year_label": "2011",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我爱你胜过你爱我》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "网络情歌",
+    "男女对唱",
+    "彩铃"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "冷漠、杨小曼合唱版本；2011-04-05 EP收录",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/album/04Ah848yYmApYxvSArbJDZ",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d084e73105c6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 1024
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "网络情歌深挖_v39",
+      "row": 23
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "id": "snd-35a1e720bb7d4172",
+  "title": "有没有一种爱让人不流泪",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "待核",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "待核",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "网络歌曲",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "KTV"
+  ],
+  "notes": "元数据待核",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending",
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 685
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 12
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

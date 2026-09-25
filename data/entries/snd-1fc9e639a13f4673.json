@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-1fc9e639a13f4673",
+  "title": "儿行千里",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘和刚",
+  "composer_credit": "戚建波",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《儿行千里母担忧》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "亲情",
+    "母亲",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "晚会",
+    "CD"
+  ],
+  "notes": "车行作词、戚建波作曲；常见题名亦作《儿行千里母担忧》",
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/儿行千里/997876",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-f1a85c25ef77"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 909
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "亲情家庭感恩记忆_v31",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

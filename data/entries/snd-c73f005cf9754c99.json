@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-c73f005cf9754c99",
+  "title": "情义两心坚",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张德兰",
+  "composer_credit": "顾嘉辉",
+  "year": 1983,
+  "year_label": "1983",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《神雕侠侣》电视剧原声",
+  "context": "1983 TVB《神雕侠侣》插曲",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "武侠",
+    "港剧"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.91flac.com/playlists/8049907820",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 34
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 19
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

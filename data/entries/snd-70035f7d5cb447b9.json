@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-70035f7d5cb447b9",
+  "title": "草原之夜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核（多版本）",
+  "composer_credit": "田歌",
+  "year": 1959,
+  "year_label": "1959",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "纪录片《绿色的原野》原声",
+  "context": "纪录片《绿色的原野》插曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "民族",
+    "民歌",
+    "影视"
+  ],
+  "carriers": [
+    "广播",
+    "电影",
+    "磁带",
+    "晚会"
+  ],
+  "notes": "张加毅作词；1959年创作，被称为“东方小夜曲”",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/草原之夜",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 831
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

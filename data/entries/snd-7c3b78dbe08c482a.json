@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "snd-7c3b78dbe08c482a",
+  "title": "美丽的神话",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡歌、白冰",
+  "composer_credit": "待核",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《神话》电视剧原声",
+  "context": "电视剧《神话》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声",
+    "对唱"
+  ],
+  "carriers": [
+    "电视",
+    "QQ音乐",
+    "KTV"
+  ],
+  "notes": "与电影版《无尽的爱》形成跨版本记忆",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/胡歌",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-6d058ad9fe37",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 750
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 297
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 217
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 361
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 23
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 123
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

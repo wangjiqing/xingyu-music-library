@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-d02db785cc6d4dd3",
+  "title": "名侦探柯南主题曲系列",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小松未步/ZARD/仓木麻衣等",
+  "composer_credit": "多位",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《名侦探柯南》动画原声",
+  "context": "《名侦探柯南》系列主题曲",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "OP",
+    "ED"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "建议后续拆成单曲表：谜、转动命运之轮、Secret of my heart等",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/名偵探柯南主題曲",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 354
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 25
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 41
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

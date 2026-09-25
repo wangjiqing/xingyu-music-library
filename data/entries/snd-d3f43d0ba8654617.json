@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "snd-d3f43d0ba8654617",
+  "title": "新鸳鸯蝴蝶梦",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "黄安",
+  "composer_credit": "黄安",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《新鸳鸯蝴蝶梦》",
+  "context": "电视剧《包青天》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "武侠",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/新鴛鴦蝴蝶夢",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 170
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 80
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 84
+    }
+  ],
+  "related_entry_ids": [
+    "snd-640612a6bd1b41ca"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

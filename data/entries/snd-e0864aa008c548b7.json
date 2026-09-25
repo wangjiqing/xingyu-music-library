@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-e0864aa008c548b7",
+  "title": "说聊斋",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "彭丽媛",
+  "composer_credit": "王立平",
+  "year": 1987,
+  "year_label": "1987",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "电视剧《聊斋》原声",
+  "context": "电视剧《聊斋》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "古装",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1SV411i7Kk/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 87
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 47
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-b11129e04bb84f43",
+  "title": "孤单北半球",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "欧得洋",
+  "composer_credit": "待核",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "代表作",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "网络",
+    "KTV"
+  ],
+  "carriers": [
+    "MP3",
+    "校园广播",
+    "KTV"
+  ],
+  "notes": "2000年代校园与MP3时代高辨识度歌曲",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending",
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 620
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

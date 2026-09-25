@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-d7204343953e49bd",
+  "title": "一生有你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "水木年华",
+  "composer_credit": "卢庚戌",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《一生有你》",
+  "context": "大学校园民谣",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "民谣",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/水木年华",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-35490ac26f69"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 372
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 41
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 37
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 20
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

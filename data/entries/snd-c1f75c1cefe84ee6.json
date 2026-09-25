@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-c1f75c1cefe84ee6",
+  "title": "表达爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林俊杰、廖君",
+  "composer_credit": "林俊杰",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《表达爱》EP/《100天》",
+  "context": "情人节时期对唱单曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "MP3",
+    "QQ音乐",
+    "对唱"
+  ],
+  "carriers": [
+    "MP3",
+    "QQ音乐",
+    "电台"
+  ],
+  "notes": "注意：女声搭档为廖君，并非金莎",
+  "sources": [
+    {
+      "url": "https://ent.sina.com.cn/y/2009-04-28/20112495796.shtml",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 730
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 281
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 108
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

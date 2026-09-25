@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "snd-11f93645769647c0",
+  "title": "无所谓",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "杨坤",
+  "composer_credit": "杨坤",
+  "year": 2002,
+  "year_label": "2002",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《无所谓》",
+  "context": "内地流行代表",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "电台",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/collection_3_394563971_60_0.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 408
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 141
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 215
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

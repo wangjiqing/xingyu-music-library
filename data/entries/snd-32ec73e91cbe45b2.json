@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "snd-32ec73e91cbe45b2",
+  "title": "卡路里",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "火箭少女101",
+  "composer_credit": "Akiyama Sayuri",
+  "year": 2018,
+  "year_label": "2018",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《西虹市首富》电影原声",
+  "context": "电影《西虹市首富》插曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "网络",
+    "短视频"
+  ],
+  "carriers": [
+    "电影",
+    "网络",
+    "短视频",
+    "KTV"
+  ],
+  "notes": "高辨识度电影歌曲",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/卡路里_(歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-37fee4c493f2",
+    "col-2c30781b95a4"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 788
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 333
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 252
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 379
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 34
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代电影OST",
+      "row": 15
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-e36b40d1de5a4a21",
+  "title": "相约九八",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "那英、王菲",
+  "composer_credit": "肖白",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "1998央视春晚",
+  "context": "1998央视春晚歌曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "春晚",
+    "时代",
+    "流行"
+  ],
+  "carriers": [
+    "电视",
+    "春晚",
+    "磁带",
+    "KTV"
+  ],
+  "notes": "靳树增作词；已是时代共同记忆核心曲目",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/相约一九九八",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 851
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 27
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

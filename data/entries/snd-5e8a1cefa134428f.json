@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-5e8a1cefa134428f",
+  "title": "真爱",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "183Club",
+  "composer_credit": "吕绍淳",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《王子变青蛙》电视原声带",
+  "context": "《王子变青蛙》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "台偶",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/王子變青蛙",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ce6d63d1fcde"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 539
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST深挖_v17",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

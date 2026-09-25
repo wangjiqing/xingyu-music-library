@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "snd-ed3d62f4429d457a",
+  "title": "靠近一点点",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "梁心颐",
+  "composer_credit": "詹宇豪",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《恶作剧之吻》电视原声带",
+  "context": "《恶作剧之吻》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "偶像剧",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/惡作劇之吻_(2005年電視劇)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 555
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 167
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 179
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 49
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 51
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

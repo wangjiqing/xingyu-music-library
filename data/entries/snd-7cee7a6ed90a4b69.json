@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-7cee7a6ed90a4b69",
+  "title": "ぜったいに 誰も",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "ZYYG",
+  "composer_credit": "織田哲郎",
+  "year": 1993,
+  "year_label": "1993",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《灌篮高手》动画原声",
+  "context": "《灌篮高手》OP2",
+  "language": "日语",
+  "editorial_grade": "A",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "补齐TV动画第二片头",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/灌籃高手_(動畫)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 180
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 3
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 16
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

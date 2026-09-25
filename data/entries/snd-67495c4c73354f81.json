@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-67495c4c73354f81",
+  "title": "天意",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "陈耀川",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《天意》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国语",
+    "KTV",
+    "情歌"
+  ],
+  "carriers": [
+    "CD",
+    "VCD",
+    "KTV"
+  ],
+  "notes": "李安修作词、陈耀川作曲；1994-11-25发行同名专辑，刘德华原版",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/天意/19855057",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 921
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 8
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

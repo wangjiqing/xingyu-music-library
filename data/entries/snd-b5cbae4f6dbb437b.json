@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-b5cbae4f6dbb437b",
+  "title": "快乐家家车",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林霓",
+  "composer_credit": "郑方",
+  "year": 1997,
+  "year_label": "1997",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《快乐家家车》动画原声",
+  "context": "《快乐家家车》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "动画城",
+    "VCD"
+  ],
+  "notes": "郑方作词作曲；1997年作品，1999年曾在央视《动画城》播出",
+  "sources": [
+    {
+      "url": "https://baike.sogou.com/v901885.htm",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-e4bd2d87b351"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 296
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 20
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画考古_v26",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

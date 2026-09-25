@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "snd-08bbe3034c21467a",
+  "title": "想你的365天",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李玟",
+  "composer_credit": "李伟菘",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "动画电影《宝莲灯》原声",
+  "context": "动画电影《宝莲灯》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "动画",
+    "电影原声"
+  ],
+  "carriers": [
+    "电影院",
+    "VCD",
+    "电视"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/宝莲灯_(1999年电影)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-b5fdfb0d5861"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 331
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [
+    "snd-7d605ef85af64d64"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

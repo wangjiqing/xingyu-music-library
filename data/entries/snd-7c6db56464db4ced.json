@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-7c6db56464db4ced",
+  "title": "爱情码头",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "张超",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包容》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "MP3",
+    "彩铃",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "彩铃",
+    "QQ空间",
+    "KTV"
+  ],
+  "notes": "张超词曲；《包容》专辑重点曲目",
+  "sources": [
+    {
+      "url": "https://www.qobuz.com/jp-ja/album/-/f9gdljq3z4egv",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 11
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

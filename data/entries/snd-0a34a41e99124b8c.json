@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-0a34a41e99124b8c",
+  "title": "心痛2009",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "欢子",
+  "composer_credit": "欢子",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《其实很寂寞》",
+  "context": "欢子代表作",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "网络",
+    "KTV",
+    "MP3"
+  ],
+  "carriers": [
+    "QQ音乐",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://k.sina.cn/article_6450434878_18079d33e001006ry3.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 709
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 267
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 344
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 98
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

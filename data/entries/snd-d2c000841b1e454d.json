@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-d2c000841b1e454d",
+  "title": "神的传说",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "罗雨、霍永刚",
+  "composer_credit": "郑方",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《封神榜传奇》动画原声",
+  "context": "动画《封神榜传奇》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "封神题材",
+    "主题曲"
+  ],
+  "carriers": [
+    "电视",
+    "动画",
+    "VCD"
+  ],
+  "notes": "袁怡珏作词、郑方作曲；与1990电视剧《封神榜》同名歌曲并非同一首",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1vx411L7VM/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-827bc3465725"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 1001
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "封神榜传奇补遗_v38",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

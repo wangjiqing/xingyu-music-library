@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-cec738482d604325",
+  "title": "故乡的云",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "费翔",
+  "composer_credit": "谭健常",
+  "year": 1987,
+  "year_label": "1987",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《故乡的云》",
+  "context": "1987春晚广泛传播",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "春晚",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "广播"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/费翔",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 81
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 45
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 42
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 35
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

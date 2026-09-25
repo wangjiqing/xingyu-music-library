@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-8de09edc77a04536",
+  "title": "会飞的心",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "章鹏",
+  "composer_credit": "关峡",
+  "year": 1993,
+  "year_label": "1993",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我爱我家》电视剧原声",
+  "context": "电视剧《我爱我家》歌曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "家庭情景喜剧",
+    "片头片尾"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "《我爱我家》多版本片头/片尾歌曲之一；全剧歌曲由关峡创作",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/我爱我家_(家庭情景喜剧)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d312c035cda8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 964
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "情景喜剧都市剧OST_v36",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

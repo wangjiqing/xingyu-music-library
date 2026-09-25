@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-3c1a3bbe00d64d07",
+  "title": "夕阳之歌",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "梅艳芳",
+  "composer_credit": "马饲野康二",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《In Brasil》",
+  "context": "电影《英雄本色III》主题曲",
+  "language": "粤语",
+  "editorial_grade": "A",
+  "tags": [
+    "电影",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/夕陽之歌",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 110
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 51
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 53
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 37
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

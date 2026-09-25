@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "snd-59f44b1e43034428",
+  "title": "空气",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "金莎",
+  "composer_credit": "待核",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《空气》",
+  "context": "金莎早期代表作",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "校园",
+    "MP3",
+    "歌手代表作"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/track/1hlAnqenerpC2h2CRWByjM",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 542
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 73
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 157
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

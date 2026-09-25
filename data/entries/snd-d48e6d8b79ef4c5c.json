@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-d48e6d8b79ef4c5c",
+  "title": "我的中国心",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "张明敏",
+  "composer_credit": "王福龄",
+  "year": 1983,
+  "year_label": "1983",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我的中国心》",
+  "context": "1984春晚广泛传播",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "爱国",
+    "春晚",
+    "校园"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "广播"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://ent.sina.cn/music/2008-12-08/detail-icczmvun3410738.d.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-7a58cbb148b1",
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 35
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 23
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 8
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 20
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

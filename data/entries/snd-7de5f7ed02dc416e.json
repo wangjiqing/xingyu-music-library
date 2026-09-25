@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-7de5f7ed02dc416e",
+  "title": "福娃主题曲",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核",
+  "composer_credit": "待核",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《福娃》动画原声",
+  "context": "《福娃》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "MP3"
+  ],
+  "notes": "北京奥运前夕时代记忆明显",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1Ay4y1S7M7/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 643
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 225
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 68
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

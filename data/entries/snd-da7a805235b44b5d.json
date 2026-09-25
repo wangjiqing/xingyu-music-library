@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-da7a805235b44b5d",
+  "title": "一天一万年",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "游鸿明",
+  "composer_credit": "游鸿明",
+  "year": 1999,
+  "year_label": "1999",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《一天一万年》",
+  "context": "游鸿明代表作",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "KTV",
+    "电台"
+  ],
+  "carriers": [
+    "CD",
+    "磁带",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1u2fmBYEt6/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 316
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 171
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

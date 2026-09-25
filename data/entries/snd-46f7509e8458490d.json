@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "snd-46f7509e8458490d",
+  "title": "一念执着",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡歌、阿兰",
+  "composer_credit": "严艺丹",
+  "year": 2011,
+  "year_label": "2011",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《步步惊心》电视剧原声",
+  "context": "《步步惊心》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1hK41137WA/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 755
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 301
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 220
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 2
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 24
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

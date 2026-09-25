@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-9c4d4bd7a57a4d6f",
+  "title": "过把瘾",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢、那英",
+  "composer_credit": "王小勇",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《过把瘾》电视剧原声",
+  "context": "电视剧《过把瘾》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "都市剧",
+    "片头"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "张和平作词、王小勇作曲",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/过把瘾/15099",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d312c035cda8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 969
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "情景喜剧都市剧OST_v36",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

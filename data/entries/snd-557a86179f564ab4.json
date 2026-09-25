@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-557a86179f564ab4",
+  "title": "你给我一片天",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙",
+  "composer_credit": "李偲菘、李伟菘",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《杨佩佩精装大戏主题曲II》",
+  "context": "1994版《倚天屠龙记》片尾曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声",
+    "演员演唱"
+  ],
+  "carriers": [
+    "电视",
+    "磁带",
+    "KTV"
+  ],
+  "notes": "演员演唱影视歌曲代表",
+  "sources": [
+    {
+      "url": "https://music.apple.com/mo/song/657336946",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 202
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 92
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 110
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 6
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

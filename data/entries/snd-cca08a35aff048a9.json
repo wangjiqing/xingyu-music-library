@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-cca08a35aff048a9",
+  "title": "红日",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李克勤",
+  "composer_credit": "立川俊之",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《红日》",
+  "context": "改编自《それが大事》",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "励志",
+    "KTV",
+    "校园"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 176
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 21
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 89
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 53
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

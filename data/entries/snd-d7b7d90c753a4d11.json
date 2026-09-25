@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "snd-d7b7d90c753a4d11",
+  "title": "鸭子侦探主题曲",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "器乐",
+  "composer_credit": "柴可夫斯基（主题素材）",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《鸭子侦探》动画原声",
+  "context": "《鸭子侦探》主题曲",
+  "language": "器乐",
+  "editorial_grade": null,
+  "tags": [
+    "引进",
+    "合拍动画",
+    "OP",
+    "BGM"
+  ],
+  "carriers": [
+    "电视",
+    "动画城",
+    "VCD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1Ay4y1S7M7/",
+      "verification": "unreviewed"
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/鸭子侦探",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "grade_invalid",
+    "possible_duplicate_or_variant"
+  ],
+  "collection_ids": [
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 395
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 36
+    }
+  ],
+  "related_entry_ids": [
+    "snd-c26cd9865e6f4c32"
+  ],
+  "audio_refs": [],
+  "revision": 1
+}

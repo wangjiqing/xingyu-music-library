@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-a98594a52b6b49ea",
+  "title": "亚洲雄风",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢、韦唯",
+  "composer_credit": "徐沛东",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "第十一届亚运会相关歌曲",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "体育",
+    "时代",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "体育赛事",
+    "晚会"
+  ],
+  "notes": "张藜作词；北京亚运时代共同记忆",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/亚洲雄风",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 847
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 23
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

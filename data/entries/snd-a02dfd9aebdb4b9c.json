@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-a02dfd9aebdb4b9c",
+  "title": "深呼吸",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "羽泉",
+  "composer_credit": "羽泉",
+  "year": 2001,
+  "year_label": "2001",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《热爱》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "内地流行",
+    "青春"
+  ],
+  "carriers": [
+    "CD",
+    "校园",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/羽泉",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-ddbb605c0607",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 390
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 43
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 207
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

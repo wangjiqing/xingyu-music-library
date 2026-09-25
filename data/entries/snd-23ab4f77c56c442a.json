@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-23ab4f77c56c442a",
+  "title": "至少还有你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "林忆莲",
+  "composer_credit": "Davy Chan",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《林忆莲's》",
+  "context": "情歌经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "CD",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "KTV",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.hechanghong.com/article/jingdiangequ/229.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 367
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 33
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 193
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 71
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

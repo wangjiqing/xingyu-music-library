@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-90595a30738a47a7",
+  "title": "好汉歌",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘欢",
+  "composer_credit": "赵季平",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《水浒传》电视剧原声",
+  "context": "央视《水浒传》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "古装",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "CD"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.sohu.com/a/611201671_352430",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 292
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 120
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-72c422b9651e4545",
+  "title": "最浪漫的事",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "赵咏华",
+  "composer_credit": "李正帆",
+  "year": 1997,
+  "year_label": "1997",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《我的爱 我的梦 我的家》",
+  "context": "婚礼/KTV经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/趙詠華",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 276
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 158
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

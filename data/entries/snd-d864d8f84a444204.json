@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-d864d8f84a444204",
+  "title": "错错错",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "六哲、陈娟儿",
+  "composer_credit": "六哲",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《被伤过的心还可以爱谁》",
+  "context": "网络情歌代表",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "网络",
+    "彩铃",
+    "KTV"
+  ],
+  "carriers": [
+    "QQ音乐",
+    "MP3",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/yy/special/single/4505158.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 753
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 300
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 363
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 125
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

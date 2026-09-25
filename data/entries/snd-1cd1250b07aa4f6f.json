@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-1cd1250b07aa4f6f",
+  "title": "ドラえもんのうた",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "山野さと子等",
+  "composer_credit": "菊池俊輔",
+  "year": 1991,
+  "year_label": "1991",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《哆啦A梦》动画原声",
+  "context": "《哆啦A梦》经典主题曲",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "录像带",
+    "VCD"
+  ],
+  "notes": "国内长期以《机器猫》《哆啦A梦》等名称传播",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/哆啦A夢之歌",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 141
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

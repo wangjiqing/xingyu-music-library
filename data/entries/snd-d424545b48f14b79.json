@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "snd-d424545b48f14b79",
+  "title": "快乐星猫",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "牛奶咖啡",
+  "composer_credit": "待核",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《快乐星猫》单曲/动画原声",
+  "context": "《快乐星猫》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "Apple Music记录牛奶咖啡同名单曲于2008-03-18发行；动画后续亦有多季音乐版本",
+  "sources": [
+    {
+      "url": "https://music.apple.com/us/song/1841619175",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-e4bd2d87b351"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 823
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 99
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "童年动画考古_v26",
+      "row": 10
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

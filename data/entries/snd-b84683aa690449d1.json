@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "snd-b84683aa690449d1",
+  "title": "我的未来式",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郭采洁",
+  "composer_credit": "待核",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《隐形超人》",
+  "context": "《爱情公寓》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "偶像剧",
+    "青春"
+  ],
+  "carriers": [
+    "电视",
+    "MP3"
+  ],
+  "notes": "因《爱情公寓》长期重播形成持续传播",
+  "sources": [],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending",
+    "public_source_missing"
+  ],
+  "collection_ids": [
+    "col-677fe528302f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 682
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v18",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

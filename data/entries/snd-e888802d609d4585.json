@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-e888802d609d4585",
+  "title": "眉飞色舞",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑秀文",
+  "composer_credit": "Joon-Young Choi",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《眉飞色舞》",
+  "context": "千禧舞曲记忆",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "舞曲",
+    "KTV",
+    "迪厅"
+  ],
+  "carriers": [
+    "CD",
+    "VCD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.hechanghong.com/article/jingdiangequ/229.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 366
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 192
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

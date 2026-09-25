@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-a57dcb7b9ec44930",
+  "title": "回家真好",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "梁文福",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《笨小孩精选》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "国语",
+    "家庭",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "电视",
+    "KTV"
+  ],
+  "notes": "梁文福作曲；刘德华、李安修、陈富荣作词",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/刘德华单曲列表",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 926
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

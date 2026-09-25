@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-431e817ac97a4e06",
+  "title": "江湖",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘铁营",
+  "composer_credit": "刘铁营",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《武林外传》电视剧原声",
+  "context": "电视剧《武林外传》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "情景喜剧",
+    "武侠",
+    "插曲"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "VCD"
+  ],
+  "notes": "刘铁营词曲并演唱",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/武林外传/5298",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d312c035cda8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 963
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "情景喜剧都市剧OST_v36",
+      "row": 5
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "snd-9105d2efa0a04063",
+  "title": "向日葵的花季",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "保剑锋",
+  "composer_credit": "待核",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《十八岁的天空》电视剧原声带",
+  "context": "《十八岁的天空》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "校园剧",
+    "影视原声",
+    "青春"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "校园"
+  ],
+  "notes": "校园剧青春记忆",
+  "sources": [
+    {
+      "url": "https://www.quick-china.com/music/detail/mc10317.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-45cdd9c19914",
+    "col-6d058ad9fe37",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 431
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 52
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 147
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 13
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 15
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

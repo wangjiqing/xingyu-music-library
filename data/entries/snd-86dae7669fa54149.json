@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "snd-86dae7669fa54149",
+  "title": "被风吹过的夏天",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "金莎、林俊杰",
+  "composer_credit": "林俊杰",
+  "year": 2005,
+  "year_label": "2005",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《空气》",
+  "context": "青春对唱代表",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "MP3",
+    "对唱",
+    "KTV"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.shazam.com/zh-tw/song/945252551/被風吹過的夏天",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-ddbb605c0607",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 547
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 75
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 162
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 284
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 46
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

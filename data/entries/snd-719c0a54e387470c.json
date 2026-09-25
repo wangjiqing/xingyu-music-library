@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "snd-719c0a54e387470c",
+  "title": "Colorful Days",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "朴树",
+  "composer_credit": "朴树",
+  "year": 2003,
+  "year_label": "2003",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《生如夏花》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "内地唱作",
+    "青春"
+  ],
+  "carriers": [
+    "CD",
+    "MP3"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/朴树",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-35490ac26f69",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 419
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 48
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 66
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 26
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 13
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

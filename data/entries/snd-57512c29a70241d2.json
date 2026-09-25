@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-57512c29a70241d2",
+  "title": "中国人",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "刘德华",
+  "composer_credit": "陈耀川",
+  "year": 1997,
+  "year_label": "1997",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《爱如此神奇》",
+  "context": "家国题材",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "爱国",
+    "晚会",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/中国人_(歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 265
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 112
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 152
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 66
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-044993a4b1244d57",
+  "title": "舒克和贝塔",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "金复载",
+  "composer_credit": "金复载",
+  "year": 1989,
+  "year_label": "1989",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《舒克和贝塔》动画原声",
+  "context": "《舒克和贝塔》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视",
+    "录像带"
+  ],
+  "notes": "郑渊洁作词",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/舒克和贝塔/65430018",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 119
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 9
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

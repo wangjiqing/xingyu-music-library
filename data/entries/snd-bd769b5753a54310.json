@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "snd-bd769b5753a54310",
+  "title": "国家",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙、刘媛媛",
+  "composer_credit": "金培达",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《国家》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "爱国",
+    "流行",
+    "晚会"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "学校",
+    "合唱"
+  ],
+  "notes": "王平久作词；2009年前后广泛传播",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/国家_(歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d47324a4216f"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 856
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "民歌校园时代记忆_v27",
+      "row": 32
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

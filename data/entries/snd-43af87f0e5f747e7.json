@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-43af87f0e5f747e7",
+  "title": "我只能爱你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "彭青",
+  "composer_credit": "金浒炫",
+  "year": 2008,
+  "year_label": "2008",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《射雕英雄传08版》",
+  "context": "2008《射雕英雄传》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视剧",
+    "武侠"
+  ],
+  "carriers": [
+    "电视",
+    "影视原声"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.kugou.com/song-36/bhfulc3.html",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ad741a7d3b58"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 679
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "本地歌单补遗_v19",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "snd-b1aa21ca87384ec7",
+  "title": "爱过谁",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "尚雯婕",
+  "composer_credit": "谭旋",
+  "year": 2017,
+  "year_label": "2017",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《射雕英雄传》电视剧原声",
+  "context": "2017版《射雕英雄传》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "武侠",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "网络"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1hK41137WA/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 785
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 330
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 249
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 31
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

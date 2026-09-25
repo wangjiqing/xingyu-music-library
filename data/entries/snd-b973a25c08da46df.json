@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-b973a25c08da46df",
+  "title": "说书人",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "小沈阳",
+  "composer_credit": "谭旋",
+  "year": 2013,
+  "year_label": "2013",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《说书人》电视剧歌曲",
+  "context": "电视剧《说书人》主题曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "影视",
+    "中国风",
+    "网络"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "MP3"
+  ],
+  "notes": "影视主题歌曲",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/小沈阳",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e02db07bd6b6"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 938
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "演员歌手跨界深挖_v32",
+      "row": 25
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

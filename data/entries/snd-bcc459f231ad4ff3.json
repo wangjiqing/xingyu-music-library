@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "snd-bcc459f231ad4ff3",
+  "title": "风起时",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡歌",
+  "composer_credit": "孟可",
+  "year": 2015,
+  "year_label": "2015",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《琅琊榜》电视剧原声",
+  "context": "《琅琊榜》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "网络"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1hK41137WA/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-37fee4c493f2",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 775
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 320
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 239
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "2010年代精选延伸",
+      "row": 21
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 26
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

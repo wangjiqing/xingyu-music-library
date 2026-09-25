@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "snd-38685bf8484d4479",
+  "title": "Dancing in the Rain",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "水木年华",
+  "composer_credit": "卢庚戌",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《70.80》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "校园民谣",
+    "青春"
+  ],
+  "carriers": [
+    "CD",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/水木年华",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-35490ac26f69",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 458
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 60
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 30
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 21
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

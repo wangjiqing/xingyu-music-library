@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-94de267edd844da7",
+  "title": "独占潇洒",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "屠洪刚",
+  "composer_credit": "刘念劬、马有道",
+  "year": 1990,
+  "year_label": "1990",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "电视剧《封神榜》原声",
+  "context": "1990版《封神榜》片尾曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "神话",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1SV411i7Kk/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 137
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 63
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

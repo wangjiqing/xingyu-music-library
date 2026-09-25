@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-8ba9d89a63594c09",
+  "title": "上海滩",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "叶丽仪",
+  "composer_credit": "顾嘉辉",
+  "year": 1980,
+  "year_label": "1980",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《上海滩》电视剧原声",
+  "context": "TVB《上海滩》主题曲",
+  "language": "粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "影视原声",
+    "KTV"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "80后家庭电视记忆",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/上海灘_(歌曲)",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-b5fdfb0d5861",
+    "col-45cdd9c19914",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视动画精选",
+      "row": 5
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 2
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 2
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

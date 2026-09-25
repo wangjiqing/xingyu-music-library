@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-1f64671963514091",
+  "title": "Secret of my heart",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "倉木麻衣",
+  "composer_credit": "大野愛果",
+  "year": 2000,
+  "year_label": "2000",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《名侦探柯南》动画原声",
+  "context": "《名侦探柯南》ED9",
+  "language": "日语",
+  "editorial_grade": "S",
+  "tags": [
+    "引进动画",
+    "ED"
+  ],
+  "carriers": [
+    "电视",
+    "VCD",
+    "MP3"
+  ],
+  "notes": "MP3时代持续传播",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/Secret_of_my_heart",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-7ce41203cc67"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 349
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 23
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "引进动画歌曲",
+      "row": 39
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

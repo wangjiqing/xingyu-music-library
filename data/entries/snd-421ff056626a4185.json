@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-421ff056626a4185",
+  "title": "睡在我上铺的兄弟",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "老狼",
+  "composer_credit": "高晓松",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《校园民谣1》",
+  "context": "校园民谣代表",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "民谣"
+  ],
+  "carriers": [
+    "磁带",
+    "校园",
+    "吉他"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/校园民谣",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-35490ac26f69"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 219
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 26
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 11
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

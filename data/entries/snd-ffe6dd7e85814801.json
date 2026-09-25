@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "snd-ffe6dd7e85814801",
+  "title": "醉拳",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "成龙",
+  "composer_credit": "李偲菘、李伟菘",
+  "year": 1994,
+  "year_label": "1994",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《醉拳II》电影原声",
+  "context": "电影《醉拳II》主题曲",
+  "language": "国语/粤语",
+  "editorial_grade": "S",
+  "tags": [
+    "电影原声",
+    "武侠",
+    "KTV"
+  ],
+  "carriers": [
+    "电影",
+    "VCD",
+    "电视",
+    "KTV"
+  ],
+  "notes": "成龙电影歌曲代表作",
+  "sources": [
+    {
+      "url": "https://wapbaike.baidu.com/item/醉拳/16178868",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-6d058ad9fe37"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 225
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 103
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 125
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 7
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

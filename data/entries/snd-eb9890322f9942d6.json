@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "snd-eb9890322f9942d6",
+  "title": "光棍",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "胡歌",
+  "composer_credit": "待核",
+  "year": 2009,
+  "year_label": "2009",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《仙剑奇侠传三》电视剧原声",
+  "context": "《仙剑奇侠传三》插曲",
+  "language": "国语",
+  "editorial_grade": "A",
+  "tags": [
+    "电视",
+    "游戏改编",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "MP3",
+    "QQ音乐"
+  ],
+  "notes": "演员跨界演唱",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/胡歌",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-a5f8c7867b9e",
+    "col-45cdd9c19914",
+    "col-6d058ad9fe37",
+    "col-4e3bf5fc86fb",
+    "col-59d1fb5cb8ec"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 703
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 262
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 207
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视明星演唱",
+      "row": 21
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 65
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "台偶OST与海蝶系",
+      "row": 94
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

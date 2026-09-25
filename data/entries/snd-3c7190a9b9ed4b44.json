@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-3c7190a9b9ed4b44",
+  "title": "潇洒走一回",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "叶倩文",
+  "composer_credit": "陈大力、陈秀男",
+  "year": 1991,
+  "year_label": "1991",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《潇洒走一回》",
+  "context": "电视剧《京城四少》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "电视",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914",
+    "col-ddbb605c0607",
+    "col-4622dde98f30"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 149
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 68
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 72
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "港乐黄金时代",
+      "row": 49
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-7185cd2dfa3a4ece",
+  "title": "玩具之家主题曲",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "待核",
+  "composer_credit": "待核",
+  "year": 1998,
+  "year_label": "1998",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《玩具之家》动画原声",
+  "context": "《玩具之家》主题曲",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "电视"
+  ],
+  "notes": "央视少儿动画时段记忆；资料待核",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1Ay4y1S7M7/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [
+    "credit_or_detail_pending"
+  ],
+  "collection_ids": [
+    "col-0403d4248190"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 300
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 22
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "snd-c526b54fc70b4a29",
+  "title": "星星点灯",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑智化",
+  "composer_credit": "郑智化",
+  "year": 1992,
+  "year_label": "1992",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《星星点灯》",
+  "context": "励志经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "励志",
+    "校园",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "校园",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 172
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 19
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 86
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

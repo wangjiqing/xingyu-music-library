@@ -1,0 +1,29 @@
+name: 核对或补充条目
+description: 提交版本、年份、署名或出处的核对建议。
+title: "条目核对："
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: 条目 ID 或链接
+      placeholder: snd-...
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 需要核对的内容
+      description: 请区分原有内容、建议内容和适用版本。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据与出处
+      description: 提供实际页面、出版物或片尾署名的具体位置。暂时没有证据也可以说明线索。
+    validations:
+      required: true
+  - type: textarea
+    id: unresolved
+    attributes:
+      label: 尚未确定的问题

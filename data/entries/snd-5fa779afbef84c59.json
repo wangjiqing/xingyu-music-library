@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-5fa779afbef84c59",
+  "title": "无日峰的早晨 / The Morning of Crimson Peak",
+  "aliases": [
+    "无日峰的早晨",
+    "The Morning of Crimson Peak"
+  ],
+  "kind": "bgm",
+  "artist_credit": "金致焕（김치환）",
+  "composer_credit": "金致焕（김치환）",
+  "year": 2012,
+  "year_label": "2012",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "",
+  "context": "《剑灵》",
+  "language": "韩国/器乐",
+  "editorial_grade": "S",
+  "tags": [
+    "游戏BGM",
+    "无日峰",
+    "序章"
+  ],
+  "carriers": [
+    "PC网游",
+    "客户端",
+    "游戏原声"
+  ],
+  "notes": "《The World》Disc 1",
+  "sources": [
+    {
+      "url": "https://music.bugs.co.kr/album/350037",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-e1108b0dd14d"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "声音记忆_BGM",
+      "row": 12
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

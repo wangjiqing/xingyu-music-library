@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "snd-9b74d63bf77d48d4",
+  "title": "难道是我上辈子欠了你",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "郑源",
+  "composer_credit": "陈辉权",
+  "year": 2010,
+  "year_label": "2010",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《包容》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "B",
+  "tags": [
+    "MP3",
+    "苦情歌"
+  ],
+  "carriers": [
+    "MP3",
+    "网络"
+  ],
+  "notes": "梁天山作词，陈辉权作曲",
+  "sources": [
+    {
+      "url": "https://www.qobuz.com/jp-ja/album/-/f9gdljq3z4egv",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-8035054b2976"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 14
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "郑源MP3时代深挖_v28",
+      "row": 14
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

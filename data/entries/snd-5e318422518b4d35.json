@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "snd-5e318422518b4d35",
+  "title": "小鲤鱼历险记",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "沸点乐队",
+  "composer_credit": "肖白",
+  "year": 2007,
+  "year_label": "2007",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《小鲤鱼历险记》动画片原声带",
+  "context": "《小鲤鱼历险记》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "国产动画",
+    "OP"
+  ],
+  "carriers": [
+    "CCTV",
+    "电视",
+    "VCD"
+  ],
+  "notes": "作词张藜；旧表题名为“小鲤鱼历险记主题曲”、演唱署名韩磊，本版按2007原声带校正",
+  "sources": [
+    {
+      "url": "https://open.spotify.com/album/1r7glANNfxKYTMWZN9mMCM",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-0403d4248190",
+    "col-1776a4caa168"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 622
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "国产动画歌曲",
+      "row": 65
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "少儿影视补遗_v25",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

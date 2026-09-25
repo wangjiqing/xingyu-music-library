@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-35860b6450ec4452",
+  "title": "旅行",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "许巍",
+  "composer_credit": "许巍",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《每一刻都是崭新的》",
+  "context": "",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "内地摇滚",
+    "旅行",
+    "校园"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/许巍",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-35490ac26f69"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 482
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 65
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 109
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "内地唱作与校园摇滚",
+      "row": 31
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

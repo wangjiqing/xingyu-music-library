@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-c1038be147a84a09",
+  "title": "你怎么舍得我难过",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "黄品源",
+  "composer_credit": "黄品源",
+  "year": 1990,
+  "year_label": "1990",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《男配角心声》",
+  "context": "情歌经典",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电台",
+    "KTV"
+  ],
+  "carriers": [
+    "磁带",
+    "CD",
+    "KTV"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://www.xgccm.com/article/detail/5366",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-ddbb605c0607"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 124
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "KTV情歌与成名曲",
+      "row": 59
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

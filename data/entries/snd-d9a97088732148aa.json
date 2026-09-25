@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "snd-d9a97088732148aa",
+  "title": "好久不见",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "李小龙",
+  "composer_credit": "李小龙",
+  "year": 2006,
+  "year_label": "2006",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《武林外传》电视剧原声",
+  "context": "电视剧《武林外传》片头曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "情景喜剧",
+    "武侠",
+    "片头"
+  ],
+  "carriers": [
+    "电视",
+    "网络",
+    "VCD"
+  ],
+  "notes": "李小龙词曲并演唱",
+  "sources": [
+    {
+      "url": "https://bkso.baidu.com/item/武林外传/5298",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-d312c035cda8"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 961
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "情景喜剧都市剧OST_v36",
+      "row": 3
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

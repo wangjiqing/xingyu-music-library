@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "snd-8dd9271558be4d1f",
+  "title": "快乐崇拜",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "潘玮柏、张韶涵",
+  "composer_credit": "Turtles等",
+  "year": 2004,
+  "year_label": "2004",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "《Wu Ha》",
+  "context": "青春舞曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "校园",
+    "舞曲",
+    "MP3"
+  ],
+  "carriers": [
+    "CD",
+    "MP3",
+    "校园"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "url": "https://zh.wikipedia.org/wiki/Wu_Ha",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-7a58cbb148b1",
+    "col-a5f8c7867b9e",
+    "col-4e3bf5fc86fb"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 478
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "校园青春",
+      "row": 64
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "MP3彩铃网络",
+      "row": 106
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "青春偶像剧与跨界",
+      "row": 28
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

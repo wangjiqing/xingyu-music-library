@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "id": "snd-a987e6ca0d3e4cdc",
+  "title": "哪里不平哪有我",
+  "aliases": [],
+  "kind": "song",
+  "artist_credit": "何纪光",
+  "composer_credit": "金复载",
+  "year": 1985,
+  "year_label": "1985",
+  "year_basis": "原表记载，首发、传播或版本日期的含义待核",
+  "album": "电视剧《济公》原声",
+  "context": "电视剧《济公》主题曲",
+  "language": "国语",
+  "editorial_grade": "S",
+  "tags": [
+    "电视",
+    "古装",
+    "影视原声"
+  ],
+  "carriers": [
+    "电视",
+    "磁带"
+  ],
+  "notes": "80/90后重播记忆",
+  "sources": [
+    {
+      "url": "https://www.bilibili.com/video/BV1SV411i7Kk/",
+      "verification": "unreviewed"
+    }
+  ],
+  "review_status": "unreviewed",
+  "issues": [],
+  "collection_ids": [
+    "col-45cdd9c19914"
+  ],
+  "provenance": [
+    {
+      "source_id": "excel-v40",
+      "sheet": "歌曲总表",
+      "row": 56
+    },
+    {
+      "source_id": "excel-v40",
+      "sheet": "影视原声精选",
+      "row": 33
+    }
+  ],
+  "related_entry_ids": [],
+  "audio_refs": [],
+  "revision": 1
+}

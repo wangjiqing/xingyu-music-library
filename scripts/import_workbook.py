@@ -154,7 +154,7 @@ def main():
     for entry in entries.values():
         (output / (entry['id'] + '.json')).write_text(json.dumps(entry, ensure_ascii=False, indent=2) + '\n')
     manifest = {
-        'schema_version': 1, 'title': '星屿声音记忆库',
+        'schema_version': 1, 'title': '星语声音记忆库',
         'description': '收藏声音，也留下版本、出处与记忆。',
         'source': {'id': 'excel-v40', 'label': '视听资料整理表 v40', 'sha256': digest,
                    'sheet_count': len(sheets), 'imported_source_rows': record_count},

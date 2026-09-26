@@ -5,14 +5,12 @@ const normalize = (value) => String(value ?? '').normalize('NFKC').toLocaleLower
 const readableURL = (value) => {try {return decodeURI(value);} catch {return value;}};
 const issueLabels = {year_uncertain:'年代含义待核',credit_or_detail_pending:'署名或细节待核',grade_invalid:'原表推荐级异常',public_source_missing:'尚缺公开来源',possible_duplicate_or_variant:'存在相近记录，需辨认版本'};
 const statusLabels = {unreviewed:'尚未逐项核验',in_review:'核对中',reviewed:'已核验',disputed:'有争议'};
-const state = {query:'',kind:'all',decade:'',language:'',review:'',collection:'',page:1};
-const pageSize = 30;
+const state = {query:'',kind:'all',decade:'',language:'',review:''};
 let catalog, entries = [], entryMap = new Map(), collectionMap = new Map(), currentDetail = null;
 
 function filterEntries() {
   const terms = normalize(state.query).split(' ').filter(Boolean);
   let filtered = entries.filter(e => (state.kind === 'all' || e.kind === state.kind)
-    && (!state.collection || e.collection_ids.includes(state.collection))
     && (!state.decade || (state.decade === 'unknown' ? e.year === null : Math.floor(e.year / 10) * 10 === Number(state.decade)))
     && (!state.language || e.language === state.language)
     && (!state.review || (state.review === 'issues' ? e.issues.length > 0 : e.review_status === state.review))
@@ -23,28 +21,21 @@ function filterEntries() {
   return filtered;
 }
 
-function renderCollections() {
-  const q = normalize($('#collection-search').value);
-  $('#collections').innerHTML = catalog.collections.filter(c => normalize(c.title).includes(q)).map(c => `<button type="button" class="collection-button ${state.collection === c.id ? 'active' : ''}" data-collection="${c.id}" aria-pressed="${state.collection === c.id}"><span>${escapeHTML(c.title)}</span><span>${c.entry_ids.length}</span></button>`).join('');
-  $('#all-collections').classList.toggle('active', !state.collection);
-  $('#all-collections').setAttribute('aria-pressed',String(!state.collection));
+function researchRequestURL() {
+  if (!catalog?.repository_url || !state.query.trim()) return '';
+  const query = state.query.trim();
+  const title = `资料检索请求：${query.slice(0, 100)}`;
+  const body = `## 待检索线索\n\n${query}\n\n## 希望补充\n请查找并整理可核对的曲目资料：年代、演唱者/音乐署名、关联作品或场景、主题/记忆线索，以及可靠来源。\n\n## 处理约定\n请给每项结论附上实际查看过的来源链接；若来源冲突或资料不足，请明确标注，不要猜测。整理结果先作为待审核草稿，不直接发布。`;
+  return `${catalog.repository_url}/issues/new?template=catalog-research.md&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
 }
 
 function render() {
-  const selected = collectionMap.get(state.collection);
-  $('#page-title').textContent = selected?.title || '声音目录';
-  $('#page-description').textContent = selected ? '沿用原整理表的专题收录，条目内容仍待逐项核验。' : '歌曲、原声与配乐，从熟悉的名字开始寻找。';
   const filtered = filterEntries();
-  const pages = Math.max(1, Math.ceil(filtered.length / pageSize));
-  state.page = Math.min(state.page, pages);
-  const start = (state.page - 1) * pageSize;
-  $('#result-count').textContent = `${filtered.length.toLocaleString()} 条记录${filtered.length ? ` · 显示 ${start+1}–${Math.min(start+pageSize,filtered.length)}` : ''}`;
-  $('#clear-filters').hidden = !(state.query || state.kind !== 'all' || state.decade || state.language || state.review || state.collection);
+  $('#result-count').textContent = `${filtered.length.toLocaleString()} 条记录${state.query ? ` · 搜索“${state.query.trim()}”` : ' · 完整目录'}`;
+  $('#clear-filters').hidden = !(state.query || state.kind !== 'all' || state.decade || state.language || state.review);
   $('#results').setAttribute('aria-busy','false');
-  $('#results').innerHTML = filtered.length ? filtered.slice(start,start+pageSize).map(e => `<button type="button" class="entry-row" data-entry="${e.id}" aria-label="查看 ${escapeHTML(e.title)}，${escapeHTML(e.artist_credit)} 的详情"><span class="entry-primary"><span class="record-mark" aria-hidden="true">${e.kind === 'bgm' ? '≋' : '♪'}</span><span><span class="entry-title">${escapeHTML(e.title)}</span><span class="entry-artist">${escapeHTML(e.artist_credit || '署名待核')}</span></span></span><span class="entry-secondary"><span class="entry-context">${escapeHTML(e.context || e.album || '关联作品待补充')}</span><span class="tag-list">${e.tags.slice(0,2).map(t => `<span class="tag">${escapeHTML(t)}</span>`).join('')}${e.issues.length ? '<span class="tag issue">有待核问题</span>' : ''}</span></span><span class="entry-year ${e.year === null ? 'unknown' : ''}">${escapeHTML(e.year_label)}</span><span class="row-arrow" aria-hidden="true">↗</span></button>`).join('') : '<div class="empty-state"><strong>还没有匹配的条目</strong><p>可以换一个名称、别名，或减少筛选条件。</p><button type="button" class="text-button" data-reset>查看全部条目</button></div>';
-  $('#pagination').innerHTML = filtered.length > pageSize ? `<button type="button" data-page="${state.page-1}" ${state.page === 1 ? 'disabled' : ''}>上一页</button><span>${state.page} / ${pages}</span><button type="button" data-page="${state.page+1}" ${state.page === pages ? 'disabled' : ''}>下一页</button>` : '';
+  $('#results').innerHTML = filtered.length ? filtered.map(e => `<button type="button" class="entry-row" data-entry="${e.id}" aria-label="查看 ${escapeHTML(e.title)}，${escapeHTML(e.artist_credit)} 的详情"><span class="entry-primary"><span class="record-mark" aria-hidden="true">${e.kind === 'bgm' ? '≋' : '♪'}</span><span><span class="entry-title">${escapeHTML(e.title)}</span><span class="entry-artist">${escapeHTML(e.artist_credit || '署名待核')}</span></span></span><span class="entry-secondary"><span class="entry-context">${escapeHTML(e.context || e.album || '关联作品待补充')}</span><span class="tag-list">${e.tags.slice(0,2).map(t => `<span class="tag">${escapeHTML(t)}</span>`).join('')}${e.issues.length ? '<span class="tag issue">有待核问题</span>' : ''}</span></span><span class="entry-year ${e.year === null ? 'unknown' : ''}">${escapeHTML(e.year_label)}</span><span class="row-arrow" aria-hidden="true">↗</span></button>`).join('') : `<div class="empty-state"><strong>目录里还没有这条声音</strong><p>${state.query.trim() ? '可以把这条线索提交为收录检索请求；整理时会要求附上来源，资料不足或有冲突时会保留待核。' : '可以换一个筛选条件，或清除筛选查看完整目录。'}</p>${state.query.trim() && researchRequestURL() ? `<a class="research-link" href="${escapeHTML(researchRequestURL())}" target="_blank" rel="noopener noreferrer">提交收录检索请求 ↗</a>` : ''}<button type="button" class="text-button" data-reset>查看完整目录</button></div>`;
   document.querySelectorAll('[data-kind]').forEach(b => {b.classList.toggle('selected',b.dataset.kind === state.kind);b.setAttribute('aria-pressed',String(b.dataset.kind === state.kind));});
-  renderCollections();
 }
 
 function showEntry(id) {
@@ -76,7 +67,7 @@ function route() {
   else if ($('#detail').open) $('#detail').close();
 }
 function closeDetail() {$('#detail').close();currentDetail=null;history.replaceState(null,'',location.pathname+location.search);}
-function reset() {Object.assign(state,{query:'',kind:'all',decade:'',language:'',review:'',collection:'',page:1});$('#search').value='';['decade','language','review'].forEach(id => $('#'+id).value='');render();}
+function reset() {Object.assign(state,{query:'',kind:'all',decade:'',language:'',review:''});$('#search').value='';['decade','language','review'].forEach(id => $('#'+id).value='');render();}
 
 async function init() {
   try {
@@ -85,7 +76,7 @@ async function init() {
     catalog = await response.json();
     entries = catalog.entries.map(e => ({...e,searchText:normalize([e.title,...e.aliases,e.artist_credit,e.composer_credit,e.context,e.album,e.notes,...e.tags,...e.carriers].join(' '))}));
     entryMap = new Map(entries.map(e => [e.id,e]));collectionMap = new Map(catalog.collections.map(c => [c.id,c]));
-    $('#total-count').textContent = entries.length.toLocaleString();$('#tab-all').textContent=entries.length.toLocaleString();$('#tab-bgm').textContent=catalog.stats.bgm;$('#collection-count').textContent=catalog.collections.length;
+    $('#tab-all').textContent=entries.length.toLocaleString();$('#tab-bgm').textContent=catalog.stats.bgm;
     $('#source-count').textContent = `${catalog.source.label} · ${catalog.stats.source_rows.toLocaleString()} 行来源`;
     if(catalog.repository_url){$('#repo-link').href=catalog.repository_url;$('#repo-link').hidden=false;}
     [...new Set(entries.filter(e => e.year !== null).map(e => Math.floor(e.year / 10)*10))].sort().forEach(d => $('#decade').add(new Option(`${d} 年代`,String(d))));$('#decade').add(new Option('年代待核','unknown'));
@@ -96,20 +87,16 @@ async function init() {
   }
 }
 $('#search-form').addEventListener('submit',e => e.preventDefault());
-$('#search').addEventListener('input',e => {state.query=e.target.value;state.page=1;if(catalog)render();});
-['decade','language','review'].forEach(id => $('#'+id).addEventListener('change',e => {state[id]=e.target.value;state.page=1;render();}));
-$('#collection-search').addEventListener('input',() => {if(catalog)renderCollections();});
-$('#all-collections').addEventListener('click',() => {state.collection='';state.page=1;render();});
+$('#search').addEventListener('input',e => {state.query=e.target.value;if(catalog)render();});
+['decade','language','review'].forEach(id => $('#'+id).addEventListener('change',e => {state[id]=e.target.value;render();}));
 $('#clear-filters').addEventListener('click',reset);$('#close-detail').addEventListener('click',closeDetail);
 $('#detail').addEventListener('cancel',e => {e.preventDefault();closeDetail();});
 $('#about-button').addEventListener('click',() => {if(catalog)showAbout();});
 document.addEventListener('click',async event => {
   const b = event.target.closest('button');if(!b)return;
   if(b.dataset.entry)location.hash=`entry/${b.dataset.entry}`;
-  if(b.dataset.kind){state.kind=b.dataset.kind;state.page=1;render();}
-  if(b.dataset.collection){state.collection=b.dataset.collection;state.page=1;render();}
-  if(b.dataset.query){state.query=b.dataset.query;$('#search').value=state.query;state.page=1;render();}
-  if(b.dataset.page){state.page=Number(b.dataset.page);render();$('#result-count').scrollIntoView({block:'start',behavior:'smooth'});}
+  if(b.dataset.kind){state.kind=b.dataset.kind;render();}
+  if(b.dataset.query){state.query=b.dataset.query;$('#search').value=state.query;render();$('#result-count').scrollIntoView({block:'start',behavior:'smooth'});}
   if(b.hasAttribute('data-reset'))reset();
   if(b.id==='copy-link'){try{await navigator.clipboard.writeText(location.href);b.textContent='链接已复制';}catch{b.textContent='请复制浏览器地址栏链接';}}
 });

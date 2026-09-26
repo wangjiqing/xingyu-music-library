@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="查找歌曲、影视动画原声与游戏配乐，保留声音的版本、出处和记忆线索。">
   <meta name="theme-color" content="#f7f6f2">
-  <title>星屿声音记忆库</title>
+  <title>星语声音记忆库</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./style.css">
   <script src="./app.js" defer></script>
@@ -13,33 +13,25 @@
 <body>
   <a class="skip" href="#main">跳到声音目录</a>
   <header class="site-header">
-    <a class="brand" href="./"><span class="brand-icon" aria-hidden="true">♫</span><span>星屿<span class="brand-sub">声音记忆库</span></span></a>
+    <a class="brand" href="./"><span class="brand-icon" aria-hidden="true">♫</span><span>星语<span class="brand-sub">声音记忆库</span></span></a>
     <nav aria-label="资料导航"><a href="./catalog.json" download="xingyu-catalog.json">下载目录 <span aria-hidden="true">↗</span></a><a id="repo-link" hidden target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a></nav>
   </header>
   <div class="workspace">
-    <aside class="sidebar" aria-label="专题索引">
-      <div class="sidebar-label">浏览资料</div>
-      <button class="collection-button active" id="all-collections" type="button">全部专题 <span id="collection-count">—</span></button>
-      <label class="collection-search"><span class="sr-only">查找专题</span><input id="collection-search" placeholder="查找专题…" type="search"></label>
-      <div id="collections" class="collection-list"></div>
-      <div class="sidebar-note"><span class="tiny-dot"></span>持续整理中的声音档案<p>保留线索，也保留尚未确定的答案。</p></div>
-    </aside>
     <main id="main">
-      <div class="eyebrow">THE SOUND ARCHIVE <span>VOL. 01</span></div>
-      <div class="page-heading"><div><h1 id="page-title">声音目录</h1><p id="page-description">歌曲、原声与配乐，从熟悉的名字开始寻找。</p></div><div class="catalog-size"><strong id="total-count">—</strong><span>条目录记录</span></div></div>
-      <div class="notice"><span class="notice-mark" aria-hidden="true">i</span><p>资料来自整理表，尚未逐项核验。差异记录保留供查证；本站只托管条目，音频另行保存。</p><button id="about-button" type="button">了解资料</button></div>
+      <div class="eyebrow">星语声音记忆库 <span>THE SOUND ARCHIVE</span></div>
+      <div class="page-heading"><div><h1 id="page-title">从一段记忆开始找</h1><p id="page-description">搜歌名、演唱者、作品，或想起的一点线索。</p></div></div>
       <form id="search-form" role="search">
-        <label class="search-box"><span aria-hidden="true" class="search-icon">⌕</span><span class="sr-only">搜索歌名、人物、作品或记忆线索</span><input id="search" type="search" placeholder="搜索歌名、人物、作品，或一段记忆线索…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
+        <label class="search-box"><span aria-hidden="true" class="search-icon">⌕</span><span class="sr-only">搜索歌名、人物、作品或记忆线索</span><input id="search" type="search" placeholder="你在找哪一首？输入歌名、人物、作品或记忆线索…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
       </form>
       <div class="suggestions" aria-label="试试这些线索"><span>试着找找</span><button type="button" data-query="动画城">动画城</button><button type="button" data-query="MP3">MP3 时代</button><button type="button" data-query="校园">校园</button><button type="button" data-query="赛丽亚">赛丽亚的旅馆</button></div>
-      <div class="browse-controls">
+      <div class="browse-controls" aria-label="筛选完整目录">
         <div class="kind-tabs" role="group" aria-label="条目类型"><button type="button" data-kind="all" class="selected" aria-pressed="true">全部 <span id="tab-all"></span></button><button type="button" data-kind="song" aria-pressed="false">歌曲与主题音乐</button><button type="button" data-kind="bgm" aria-pressed="false">场景配乐 <span id="tab-bgm"></span></button></div>
         <div class="filters"><label><span class="sr-only">年代</span><select id="decade"><option value="">全部年代</option></select></label><label><span class="sr-only">语言</span><select id="language"><option value="">全部语言</option></select></label><label><span class="sr-only">核对状态</span><select id="review"><option value="">全部核对状态</option><option value="issues">有待核问题</option><option value="unreviewed">尚未逐项核验</option><option value="in_review">核对中</option><option value="reviewed">已核验</option><option value="disputed">有争议</option></select></label></div>
       </div>
       <div class="results-toolbar"><p id="result-count" role="status" aria-live="polite">正在读取目录…</p><button id="clear-filters" class="text-button" type="button" hidden>清除筛选</button></div>
       <div class="list-heading" aria-hidden="true"><span>声音 / 署名</span><span>记忆与出处</span><span>年代</span><span></span></div>
       <div id="results" class="results" aria-busy="true"></div>
-      <div id="pagination" class="pagination"></div>
+      <div class="notice archive-note"><span class="notice-mark" aria-hidden="true">i</span><p>完整目录收录歌曲、影视原声与配乐。初始资料尚未逐项核验；本站只托管条目，音频另行保存。</p><button id="about-button" type="button">了解资料</button></div>
       <footer class="catalog-footer"><p>每个声音条目都有自己的编号与来处。</p><span id="source-count"></span></footer>
     </main>
   </div>

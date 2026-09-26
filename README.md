@@ -1,4 +1,4 @@
-# 星屿声音记忆库
+# 星语声音记忆库
 
 [浏览声音目录](https://wangjiqing.github.io/xingyu-music-library/) · [提出核对建议](https://github.com/wangjiqing/xingyu-music-library/issues/new/choose)
 
@@ -41,7 +41,7 @@ python3 -m http.server 4173 --directory dist
 - `docs/AGENT_CONTRACT.md`：未来 Agent 的核对提案与音频关联约定。
 - `private/`、原始 Excel 和音频均不提交 GitHub。
 
-当前网站支持文字与别名搜索、类型／年代／语言／核对状态筛选、专题浏览、来源定位、稳定详情链接、目录下载与 GitHub 编辑入口。没有在线账户、数据库写入服务、音频播放器或已接通的自动核对 Agent。
+当前网站默认列出完整目录，支持文字与别名搜索、类型／年代／语言／核对状态筛选、来源定位、稳定详情链接和资料下载。搜索无结果时，可以把关键词带入 GitHub 收录请求；请求目前由维护者处理，Agent 自动联网检索仍待配置。
 
 ## 资料使用
 

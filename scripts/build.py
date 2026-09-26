@@ -1,5 +1,6 @@
 """Build only allowlisted static assets and catalog data for GitHub Pages."""
 import argparse
+import hashlib
 import json
 import re
 import shutil
@@ -85,6 +86,20 @@ def main():
         allowed = ['index.html', 'style.css', 'app.js', 'favicon.svg']
         for name in allowed:
             shutil.copy2(ROOT / 'web' / name, output / name)
+        # GitHub Pages may continue serving a cached app.js at an unchanged URL.
+        # Fingerprint the static assets in the generated HTML so deployments load
+        # the matching code and styles immediately after each content change.
+        index_path = output / 'index.html'
+        index_html = index_path.read_text()
+        for attribute, name in [('href', 'style.css'), ('src', 'app.js')]:
+            source = (ROOT / 'web' / name).read_bytes()
+            version = hashlib.sha256(source).hexdigest()[:12]
+            old_reference = f'{attribute}="./{name}"'
+            new_reference = f'{attribute}="./{name}?v={version}"'
+            if index_html.count(old_reference) != 1:
+                raise ValueError(f'Expected exactly one {old_reference} in web/index.html')
+            index_html = index_html.replace(old_reference, new_reference)
+        index_path.write_text(index_html)
         catalog['entries'] = entries
         catalog['stats'] = {'entries': len(entries), 'bgm': sum(e['kind'] == 'bgm' for e in entries),
                             'needs_review': sum(bool(e['issues']) for e in entries),
